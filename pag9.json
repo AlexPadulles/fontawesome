@@ -1,0 +1,3553 @@
+[
+    {
+      "title": "fab fa-angular",
+      "searchTerms": [
+        "angular"
+      ]
+    },
+    {
+      "title": "fab fa-angrycreative",
+      "searchTerms": [
+        "angry creative"
+      ]
+    },
+    {
+      "title": "fab fa-angellist",
+      "searchTerms": [
+        "angelList"
+      ]
+    },
+    {
+      "title": "fab fa-android",
+      "searchTerms": [
+        "robot",
+        "android"
+      ]
+    },
+    {
+      "title": "fab fa-amilia",
+      "searchTerms": [
+        "amilia"
+      ]
+    },
+    {
+      "title": "fab fa-amazon-pay",
+      "searchTerms": [
+        "amazon pay"
+      ]
+    },
+    {
+      "title": "fab fa-amazon",
+      "searchTerms": [
+        "amazon"
+      ]
+    },
+    {
+      "title": "fab fa-alipay",
+      "searchTerms": [
+        "alipay"
+      ]
+    },
+    {
+      "title": "fab fa-algolia",
+      "searchTerms": [
+        "algolia"
+      ]
+    },
+    {
+      "title": "fab fa-airbnb",
+      "searchTerms": [
+        "airbnb"
+      ]
+    },
+    {
+      "title": "fab fa-affiliatetheme",
+      "searchTerms": [
+        "affiliatetheme"
+      ]
+    },
+    {
+      "title": "fab fa-adversal",
+      "searchTerms": [
+        "adversal"
+      ]
+    },
+    {
+      "title": "fab fa-adn",
+      "searchTerms": [
+        "app.net"
+      ]
+    },
+    {
+      "title": "fab fa-acquisitions-incorporated",
+      "searchTerms": [
+        "Dungeons &Dragons",
+        "d &d ",
+        "dnd",
+        "fantasy",
+        "game",
+        "gaming",
+        "tabletop",
+        "acquisitions incorporated"
+      ]
+    },
+    {
+      "title": "fab fa-accusoft",
+      "searchTerms": [
+        "accusoft"
+      ]
+    },
+    {
+      "title": "fab fa-accessible-icon",
+      "searchTerms": [
+        "accessibility",
+        "handicap",
+        "person",
+        "wheelchair",
+        "wheelchair-alt",
+        "accessible icon"
+      ]
+    },
+    {
+      "title": "fab fa-500px",
+      "searchTerms": [
+        "500px"
+      ]
+    },
+    {
+      "title": "far fa-window-restore",
+      "searchTerms": [
+        "browser",
+        "computer",
+        "development",
+        "window restore"
+      ]
+    },
+    {
+      "title": "fas fa-window-restore",
+      "searchTerms": [
+        "browser",
+        "computer",
+        "development",
+        "window restore"
+      ]
+    },
+    {
+      "title": "far fa-window-minimize",
+      "searchTerms": [
+        "browser",
+        "collapse",
+        "computer",
+        "development",
+        "window minimize"
+      ]
+    },
+    {
+      "title": "fas fa-window-minimize",
+      "searchTerms": [
+        "browser",
+        "collapse",
+        "computer",
+        "development",
+        "window minimize"
+      ]
+    },
+    {
+      "title": "far fa-window-maximize",
+      "searchTerms": [
+        "browser",
+        "computer",
+        "development",
+        "expand",
+        "window maximize"
+      ]
+    },
+    {
+      "title": "fas fa-window-maximize",
+      "searchTerms": [
+        "browser",
+        "computer",
+        "development",
+        "expand",
+        "window maximize"
+      ]
+    },
+    {
+      "title": "far fa-window-close",
+      "searchTerms": [
+        "browser",
+        "cancel",
+        "computer",
+        "development",
+        "window close"
+      ]
+    },
+    {
+      "title": "fas fa-window-close",
+      "searchTerms": [
+        "browser",
+        "cancel",
+        "computer",
+        "development",
+        "window close"
+      ]
+    },
+    {
+      "title": "far fa-user-circle",
+      "searchTerms": [
+        "account",
+        "avatar",
+        "head",
+        "human",
+        "man",
+        "person",
+        "profile",
+        "user circle"
+      ]
+    },
+    {
+      "title": "fas fa-user-circle",
+      "searchTerms": [
+        "account",
+        "avatar",
+        "head",
+        "human",
+        "man",
+        "person",
+        "profile",
+        "user circle"
+      ]
+    },
+    {
+      "title": "far fa-user",
+      "searchTerms": [
+        "account",
+        "avatar",
+        "head",
+        "human",
+        "man",
+        "person",
+        "profile",
+        "user"
+      ]
+    },
+    {
+      "title": "fas fa-user",
+      "searchTerms": [
+        "account",
+        "avatar",
+        "head",
+        "human",
+        "man",
+        "person",
+        "profile",
+        "user"
+      ]
+    },
+    {
+      "title": "far fa-trash-alt",
+      "searchTerms": [
+        "delete",
+        "garbage",
+        "hide",
+        "remove",
+        "trash-o",
+        "alternate trash"
+      ]
+    },
+    {
+      "title": "fas fa-trash-alt",
+      "searchTerms": [
+        "delete",
+        "garbage",
+        "hide",
+        "remove",
+        "trash-o",
+        "alternate trash"
+      ]
+    },
+    {
+      "title": "far fa-tired",
+      "searchTerms": [
+        "angry",
+        "emoticon",
+        "face",
+        "grumpy",
+        "upset",
+        "tired face"
+      ]
+    },
+    {
+      "title": "fas fa-tired",
+      "searchTerms": [
+        "angry",
+        "emoticon",
+        "face",
+        "grumpy",
+        "upset",
+        "tired face"
+      ]
+    },
+    {
+      "title": "far fa-times-circle",
+      "searchTerms": [
+        "close",
+        "cross",
+        "exit",
+        "incorrect",
+        "notice",
+        "notification",
+        "notify",
+        "problem",
+        "wrong",
+        "x",
+        "times circle"
+      ]
+    },
+    {
+      "title": "fas fa-times-circle",
+      "searchTerms": [
+        "close",
+        "cross",
+        "exit",
+        "incorrect",
+        "notice",
+        "notification",
+        "notify",
+        "problem",
+        "wrong",
+        "x",
+        "times circle"
+      ]
+    },
+    {
+      "title": "far fa-thumbs-up",
+      "searchTerms": [
+        "agree",
+        "approve",
+        "favorite",
+        "hand",
+        "like",
+        "ok",
+        "okay",
+        "social",
+        "success",
+        "thumbs-o-up",
+        "yes",
+        "you got it dude",
+        "thumbs-up"
+      ]
+    },
+    {
+      "title": "fas fa-thumbs-up",
+      "searchTerms": [
+        "agree",
+        "approve",
+        "favorite",
+        "hand",
+        "like",
+        "ok",
+        "okay",
+        "social",
+        "success",
+        "thumbs-o-up",
+        "yes",
+        "you got it dude",
+        "thumbs-up"
+      ]
+    },
+    {
+      "title": "far fa-thumbs-down",
+      "searchTerms": [
+        "disagree",
+        "disapprove",
+        "dislike",
+        "hand",
+        "social",
+        "thumbs-o-down",
+        "thumbs-down"
+      ]
+    },
+    {
+      "title": "fas fa-thumbs-down",
+      "searchTerms": [
+        "disagree",
+        "disapprove",
+        "dislike",
+        "hand",
+        "social",
+        "thumbs-o-down",
+        "thumbs-down"
+      ]
+    },
+    {
+      "title": "far fa-surprise",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "shocked",
+        "hushed face"
+      ]
+    },
+    {
+      "title": "fas fa-surprise",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "shocked",
+        "hushed face"
+      ]
+    },
+    {
+      "title": "far fa-sun",
+      "searchTerms": [
+        "brighten",
+        "contrast",
+        "day",
+        "lighter",
+        "sol",
+        "solar",
+        "star",
+        "weather",
+        "sun"
+      ]
+    },
+    {
+      "title": "fas fa-sun",
+      "searchTerms": [
+        "brighten",
+        "contrast",
+        "day",
+        "lighter",
+        "sol",
+        "solar",
+        "star",
+        "weather",
+        "sun"
+      ]
+    },
+    {
+      "title": "far fa-stop-circle",
+      "searchTerms": [
+        "block",
+        "box",
+        "circle",
+        "square",
+        "stop circle"
+      ]
+    },
+    {
+      "title": "fas fa-stop-circle",
+      "searchTerms": [
+        "block",
+        "box",
+        "circle",
+        "square",
+        "stop circle"
+      ]
+    },
+    {
+      "title": "far fa-sticky-note",
+      "searchTerms": [
+        "message",
+        "note",
+        "paper",
+        "reminder",
+        "sticker",
+        "sticky note"
+      ]
+    },
+    {
+      "title": "fas fa-sticky-note",
+      "searchTerms": [
+        "message",
+        "note",
+        "paper",
+        "reminder",
+        "sticker",
+        "sticky note"
+      ]
+    },
+    {
+      "title": "far fa-star-half",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "rating",
+        "score",
+        "star-half-empty",
+        "star-half-full",
+        "star-half"
+      ]
+    },
+    {
+      "title": "fas fa-star-half",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "rating",
+        "score",
+        "star-half-empty",
+        "star-half-full",
+        "star-half"
+      ]
+    },
+    {
+      "title": "far fa-star",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "favorite",
+        "important",
+        "night",
+        "rating",
+        "score",
+        "star"
+      ]
+    },
+    {
+      "title": "fas fa-star",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "favorite",
+        "important",
+        "night",
+        "rating",
+        "score",
+        "star"
+      ]
+    },
+    {
+      "title": "far fa-square",
+      "searchTerms": [
+        "block",
+        "box",
+        "shape",
+        "square"
+      ]
+    },
+    {
+      "title": "fas fa-square",
+      "searchTerms": [
+        "block",
+        "box",
+        "shape",
+        "square"
+      ]
+    },
+    {
+      "title": "far fa-snowflake",
+      "searchTerms": [
+        "precipitation",
+        "rain",
+        "winter",
+        "snowflake"
+      ]
+    },
+    {
+      "title": "fas fa-snowflake",
+      "searchTerms": [
+        "precipitation",
+        "rain",
+        "winter",
+        "snowflake"
+      ]
+    },
+    {
+      "title": "far fa-smile-wink",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "hint",
+        "joke",
+        "winking face"
+      ]
+    },
+    {
+      "title": "fas fa-smile-wink",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "hint",
+        "joke",
+        "winking face"
+      ]
+    },
+    {
+      "title": "far fa-smile-beam",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "positive",
+        "beaming face with smiling eyes"
+      ]
+    },
+    {
+      "title": "fas fa-smile-beam",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "positive",
+        "beaming face with smiling eyes"
+      ]
+    },
+    {
+      "title": "far fa-smile",
+      "searchTerms": [
+        "approve",
+        "emoticon",
+        "face",
+        "happy",
+        "rating",
+        "satisfied",
+        "smiling face"
+      ]
+    },
+    {
+      "title": "fas fa-smile",
+      "searchTerms": [
+        "approve",
+        "emoticon",
+        "face",
+        "happy",
+        "rating",
+        "satisfied",
+        "smiling face"
+      ]
+    },
+    {
+      "title": "far fa-share-square",
+      "searchTerms": [
+        "forward",
+        "save",
+        "send",
+        "social",
+        "share square"
+      ]
+    },
+    {
+      "title": "fas fa-share-square",
+      "searchTerms": [
+        "forward",
+        "save",
+        "send",
+        "social",
+        "share square"
+      ]
+    },
+    {
+      "title": "far fa-save",
+      "searchTerms": [
+        "disk",
+        "download",
+        "floppy",
+        "floppy-o",
+        "save"
+      ]
+    },
+    {
+      "title": "fas fa-save",
+      "searchTerms": [
+        "disk",
+        "download",
+        "floppy",
+        "floppy-o",
+        "save"
+      ]
+    },
+    {
+      "title": "far fa-sad-tear",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "tear",
+        "tears",
+        "loudly crying face"
+      ]
+    },
+    {
+      "title": "fas fa-sad-tear",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "tear",
+        "tears",
+        "loudly crying face"
+      ]
+    },
+    {
+      "title": "far fa-sad-cry",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "tear",
+        "tears",
+        "crying face"
+      ]
+    },
+    {
+      "title": "fas fa-sad-cry",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "tear",
+        "tears",
+        "crying face"
+      ]
+    },
+    {
+      "title": "far fa-registered",
+      "searchTerms": [
+        "copyright",
+        "mark",
+        "trademark",
+        "registered trademark"
+      ]
+    },
+    {
+      "title": "fas fa-registered",
+      "searchTerms": [
+        "copyright",
+        "mark",
+        "trademark",
+        "registered trademark"
+      ]
+    },
+    {
+      "title": "far fa-question-circle",
+      "searchTerms": [
+        "help",
+        "information",
+        "support",
+        "unknown",
+        "question circle"
+      ]
+    },
+    {
+      "title": "fas fa-question-circle",
+      "searchTerms": [
+        "help",
+        "information",
+        "support",
+        "unknown",
+        "question circle"
+      ]
+    },
+    {
+      "title": "far fa-plus-square",
+      "searchTerms": [
+        "add",
+        "create",
+        "expand",
+        "new",
+        "positive",
+        "shape",
+        "plus square"
+      ]
+    },
+    {
+      "title": "fas fa-plus-square",
+      "searchTerms": [
+        "add",
+        "create",
+        "expand",
+        "new",
+        "positive",
+        "shape",
+        "plus square"
+      ]
+    },
+    {
+      "title": "far fa-play-circle",
+      "searchTerms": [
+        "audio",
+        "music",
+        "playing",
+        "sound",
+        "start",
+        "video",
+        "play circle"
+      ]
+    },
+    {
+      "title": "fas fa-play-circle",
+      "searchTerms": [
+        "audio",
+        "music",
+        "playing",
+        "sound",
+        "start",
+        "video",
+        "play circle"
+      ]
+    },
+    {
+      "title": "far fa-pause-circle",
+      "searchTerms": [
+        "hold",
+        "wait",
+        "pause circle"
+      ]
+    },
+    {
+      "title": "fas fa-pause-circle",
+      "searchTerms": [
+        "hold",
+        "wait",
+        "pause circle"
+      ]
+    },
+    {
+      "title": "far fa-paper-plane",
+      "searchTerms": [
+        "air",
+        "float",
+        "fold",
+        "mail",
+        "paper",
+        "send",
+        "paper plane"
+      ]
+    },
+    {
+      "title": "fas fa-paper-plane",
+      "searchTerms": [
+        "air",
+        "float",
+        "fold",
+        "mail",
+        "paper",
+        "send",
+        "paper plane"
+      ]
+    },
+    {
+      "title": "far fa-object-ungroup",
+      "searchTerms": [
+        "copy",
+        "design",
+        "merge",
+        "select",
+        "separate",
+        "object ungroup"
+      ]
+    },
+    {
+      "title": "fas fa-object-ungroup",
+      "searchTerms": [
+        "copy",
+        "design",
+        "merge",
+        "select",
+        "separate",
+        "object ungroup"
+      ]
+    },
+    {
+      "title": "far fa-object-group",
+      "searchTerms": [
+        "combine",
+        "copy",
+        "design",
+        "merge",
+        "select",
+        "object group"
+      ]
+    },
+    {
+      "title": "fas fa-object-group",
+      "searchTerms": [
+        "combine",
+        "copy",
+        "design",
+        "merge",
+        "select",
+        "object group"
+      ]
+    },
+    {
+      "title": "far fa-newspaper",
+      "searchTerms": [
+        "article",
+        "editorial",
+        "headline",
+        "journal",
+        "journalism",
+        "news",
+        "press",
+        "newspaper"
+      ]
+    },
+    {
+      "title": "fas fa-newspaper",
+      "searchTerms": [
+        "article",
+        "editorial",
+        "headline",
+        "journal",
+        "journalism",
+        "news",
+        "press",
+        "newspaper"
+      ]
+    },
+    {
+      "title": "far fa-moon",
+      "searchTerms": [
+        "contrast",
+        "crescent",
+        "dark",
+        "lunar",
+        "night",
+        "moon"
+      ]
+    },
+    {
+      "title": "fas fa-moon",
+      "searchTerms": [
+        "contrast",
+        "crescent",
+        "dark",
+        "lunar",
+        "night",
+        "moon"
+      ]
+    },
+    {
+      "title": "far fa-money-bill-alt",
+      "searchTerms": [
+        "buy",
+        "cash",
+        "checkout",
+        "money",
+        "payment",
+        "price",
+        "purchase",
+        "alternate money bill"
+      ]
+    },
+    {
+      "title": "fas fa-money-bill-alt",
+      "searchTerms": [
+        "buy",
+        "cash",
+        "checkout",
+        "money",
+        "payment",
+        "price",
+        "purchase",
+        "alternate money bill"
+      ]
+    },
+    {
+      "title": "far fa-minus-square",
+      "searchTerms": [
+        "collapse",
+        "delete",
+        "hide",
+        "minify",
+        "negative",
+        "remove",
+        "shape",
+        "trash",
+        "minus square"
+      ]
+    },
+    {
+      "title": "fas fa-minus-square",
+      "searchTerms": [
+        "collapse",
+        "delete",
+        "hide",
+        "minify",
+        "negative",
+        "remove",
+        "shape",
+        "trash",
+        "minus square"
+      ]
+    },
+    {
+      "title": "far fa-meh-rolling-eyes",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "neutral",
+        "rating",
+        "face with rolling eyes"
+      ]
+    },
+    {
+      "title": "fas fa-meh-rolling-eyes",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "neutral",
+        "rating",
+        "face with rolling eyes"
+      ]
+    },
+    {
+      "title": "far fa-meh-blank",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "neutral",
+        "rating",
+        "face without mouth"
+      ]
+    },
+    {
+      "title": "fas fa-meh-blank",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "neutral",
+        "rating",
+        "face without mouth"
+      ]
+    },
+    {
+      "title": "far fa-meh",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "neutral",
+        "rating",
+        "neutral face"
+      ]
+    },
+    {
+      "title": "fas fa-meh",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "neutral",
+        "rating",
+        "neutral face"
+      ]
+    },
+    {
+      "title": "far fa-map",
+      "searchTerms": [
+        "address",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "navigation",
+        "paper",
+        "pin",
+        "place",
+        "point of interest",
+        "position",
+        "route",
+        "travel",
+        "map"
+      ]
+    },
+    {
+      "title": "fas fa-map",
+      "searchTerms": [
+        "address",
+        "coordinates",
+        "destination",
+        "gps",
+        "localize",
+        "location",
+        "map",
+        "navigation",
+        "paper",
+        "pin",
+        "place",
+        "point of interest",
+        "position",
+        "route",
+        "travel",
+        "map"
+      ]
+    },
+    {
+      "title": "far fa-list-alt",
+      "searchTerms": [
+        "checklist",
+        "completed",
+        "done",
+        "finished",
+        "ol",
+        "todo",
+        "ul",
+        "alternate list"
+      ]
+    },
+    {
+      "title": "fas fa-list-alt",
+      "searchTerms": [
+        "checklist",
+        "completed",
+        "done",
+        "finished",
+        "ol",
+        "todo",
+        "ul",
+        "alternate list"
+      ]
+    },
+    {
+      "title": "far fa-lightbulb",
+      "searchTerms": [
+        "energy",
+        "idea",
+        "inspiration",
+        "light",
+        "lightbulb"
+      ]
+    },
+    {
+      "title": "fas fa-lightbulb",
+      "searchTerms": [
+        "energy",
+        "idea",
+        "inspiration",
+        "light",
+        "lightbulb"
+      ]
+    },
+    {
+      "title": "far fa-life-ring",
+      "searchTerms": [
+        "coast guard",
+        "help",
+        "overboard",
+        "save",
+        "support",
+        "life ring"
+      ]
+    },
+    {
+      "title": "fas fa-life-ring",
+      "searchTerms": [
+        "coast guard",
+        "help",
+        "overboard",
+        "save",
+        "support",
+        "life ring"
+      ]
+    },
+    {
+      "title": "far fa-lemon",
+      "searchTerms": [
+        "citrus",
+        "lemonade",
+        "lime",
+        "tart",
+        "lemon"
+      ]
+    },
+    {
+      "title": "fas fa-lemon",
+      "searchTerms": [
+        "citrus",
+        "lemonade",
+        "lime",
+        "tart",
+        "lemon"
+      ]
+    },
+    {
+      "title": "far fa-laugh-wink",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "happy",
+        "smile",
+        "laughing winking face"
+      ]
+    },
+    {
+      "title": "fas fa-laugh-wink",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "happy",
+        "smile",
+        "laughing winking face"
+      ]
+    },
+    {
+      "title": "far fa-laugh-squint",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "happy",
+        "smile",
+        "laughing squinting face"
+      ]
+    },
+    {
+      "title": "fas fa-laugh-squint",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "happy",
+        "smile",
+        "laughing squinting face"
+      ]
+    },
+    {
+      "title": "far fa-laugh-beam",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "happy",
+        "smile",
+        "laugh face with beaming eyes"
+      ]
+    },
+    {
+      "title": "fas fa-laugh-beam",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "happy",
+        "smile",
+        "laugh face with beaming eyes"
+      ]
+    },
+    {
+      "title": "far fa-laugh",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "grinning face with big eyes"
+      ]
+    },
+    {
+      "title": "fas fa-laugh",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "grinning face with big eyes"
+      ]
+    },
+    {
+      "title": "far fa-kiss-wink-heart",
+      "searchTerms": [
+        "beso",
+        "emoticon",
+        "face",
+        "love",
+        "smooch",
+        "face blowing a kiss"
+      ]
+    },
+    {
+      "title": "fas fa-kiss-wink-heart",
+      "searchTerms": [
+        "beso",
+        "emoticon",
+        "face",
+        "love",
+        "smooch",
+        "face blowing a kiss"
+      ]
+    },
+    {
+      "title": "far fa-kiss-beam",
+      "searchTerms": [
+        "beso",
+        "emoticon",
+        "face",
+        "love",
+        "smooch",
+        "kissing face with smiling eyes"
+      ]
+    },
+    {
+      "title": "fas fa-kiss-beam",
+      "searchTerms": [
+        "beso",
+        "emoticon",
+        "face",
+        "love",
+        "smooch",
+        "kissing face with smiling eyes"
+      ]
+    },
+    {
+      "title": "far fa-kiss",
+      "searchTerms": [
+        "beso",
+        "emoticon",
+        "face",
+        "love",
+        "smooch",
+        "kissing face"
+      ]
+    },
+    {
+      "title": "fas fa-kiss",
+      "searchTerms": [
+        "beso",
+        "emoticon",
+        "face",
+        "love",
+        "smooch",
+        "kissing face"
+      ]
+    },
+    {
+      "title": "far fa-keyboard",
+      "searchTerms": [
+        "accessory",
+        "edit",
+        "input",
+        "text",
+        "type",
+        "write",
+        "keyboard"
+      ]
+    },
+    {
+      "title": "fas fa-keyboard",
+      "searchTerms": [
+        "accessory",
+        "edit",
+        "input",
+        "text",
+        "type",
+        "write",
+        "keyboard"
+      ]
+    },
+    {
+      "title": "far fa-images",
+      "searchTerms": [
+        "album",
+        "landscape",
+        "photo",
+        "picture",
+        "images"
+      ]
+    },
+    {
+      "title": "fas fa-images",
+      "searchTerms": [
+        "album",
+        "landscape",
+        "photo",
+        "picture",
+        "images"
+      ]
+    },
+    {
+      "title": "far fa-image",
+      "searchTerms": [
+        "album",
+        "landscape",
+        "photo",
+        "picture",
+        "image"
+      ]
+    },
+    {
+      "title": "fas fa-image",
+      "searchTerms": [
+        "album",
+        "landscape",
+        "photo",
+        "picture",
+        "image"
+      ]
+    },
+    {
+      "title": "far fa-id-card",
+      "searchTerms": [
+        "contact",
+        "demographics",
+        "document",
+        "identification",
+        "issued",
+        "profile",
+        "identification card"
+      ]
+    },
+    {
+      "title": "fas fa-id-card",
+      "searchTerms": [
+        "contact",
+        "demographics",
+        "document",
+        "identification",
+        "issued",
+        "profile",
+        "identification card"
+      ]
+    },
+    {
+      "title": "far fa-id-badge",
+      "searchTerms": [
+        "address",
+        "contact",
+        "identification",
+        "license",
+        "profile",
+        "identification badge"
+      ]
+    },
+    {
+      "title": "fas fa-id-badge",
+      "searchTerms": [
+        "address",
+        "contact",
+        "identification",
+        "license",
+        "profile",
+        "identification badge"
+      ]
+    },
+    {
+      "title": "far fa-hourglass",
+      "searchTerms": [
+        "hour",
+        "minute",
+        "sand",
+        "stopwatch",
+        "time",
+        "hourglass"
+      ]
+    },
+    {
+      "title": "fas fa-hourglass",
+      "searchTerms": [
+        "hour",
+        "minute",
+        "sand",
+        "stopwatch",
+        "time",
+        "hourglass"
+      ]
+    },
+    {
+      "title": "far fa-hospital",
+      "searchTerms": [
+        "building",
+        "covid-19",
+        "emergency room",
+        "medical center",
+        "hospital"
+      ]
+    },
+    {
+      "title": "fas fa-hospital",
+      "searchTerms": [
+        "building",
+        "covid-19",
+        "emergency room",
+        "medical center",
+        "hospital"
+      ]
+    },
+    {
+      "title": "far fa-heart",
+      "searchTerms": [
+        "favorite",
+        "like",
+        "love",
+        "relationship",
+        "valentine",
+        "heart"
+      ]
+    },
+    {
+      "title": "fas fa-heart",
+      "searchTerms": [
+        "favorite",
+        "like",
+        "love",
+        "relationship",
+        "valentine",
+        "heart"
+      ]
+    },
+    {
+      "title": "far fa-hdd",
+      "searchTerms": [
+        "cpu",
+        "hard drive",
+        "harddrive",
+        "machine",
+        "save",
+        "storage",
+        "hDD"
+      ]
+    },
+    {
+      "title": "fas fa-hdd",
+      "searchTerms": [
+        "cpu",
+        "hard drive",
+        "harddrive",
+        "machine",
+        "save",
+        "storage",
+        "hDD"
+      ]
+    },
+    {
+      "title": "far fa-handshake",
+      "searchTerms": [
+        "agreement",
+        "greeting",
+        "meeting",
+        "partnership",
+        "handshake"
+      ]
+    },
+    {
+      "title": "fas fa-handshake",
+      "searchTerms": [
+        "agreement",
+        "greeting",
+        "meeting",
+        "partnership",
+        "handshake"
+      ]
+    },
+    {
+      "title": "far fa-hand-spock",
+      "searchTerms": [
+        "live long",
+        "prosper",
+        "salute",
+        "star trek",
+        "vulcan",
+        "spock (Hand)"
+      ]
+    },
+    {
+      "title": "fas fa-hand-spock",
+      "searchTerms": [
+        "live long",
+        "prosper",
+        "salute",
+        "star trek",
+        "vulcan",
+        "spock (Hand)"
+      ]
+    },
+    {
+      "title": "far fa-hand-scissors",
+      "searchTerms": [
+        "cut",
+        "game",
+        "roshambo",
+        "scissors (Hand)"
+      ]
+    },
+    {
+      "title": "fas fa-hand-scissors",
+      "searchTerms": [
+        "cut",
+        "game",
+        "roshambo",
+        "scissors (Hand)"
+      ]
+    },
+    {
+      "title": "far fa-hand-rock",
+      "searchTerms": [
+        "fist",
+        "game",
+        "roshambo",
+        "rock (Hand)"
+      ]
+    },
+    {
+      "title": "fas fa-hand-rock",
+      "searchTerms": [
+        "fist",
+        "game",
+        "roshambo",
+        "rock (Hand)"
+      ]
+    },
+    {
+      "title": "far fa-hand-pointer",
+      "searchTerms": [
+        "arrow",
+        "cursor",
+        "select",
+        "pointer (Hand)"
+      ]
+    },
+    {
+      "title": "fas fa-hand-pointer",
+      "searchTerms": [
+        "arrow",
+        "cursor",
+        "select",
+        "pointer (Hand)"
+      ]
+    },
+    {
+      "title": "far fa-hand-point-up",
+      "searchTerms": [
+        "finger",
+        "hand-o-up",
+        "point",
+        "hand pointing up"
+      ]
+    },
+    {
+      "title": "fas fa-hand-point-up",
+      "searchTerms": [
+        "finger",
+        "hand-o-up",
+        "point",
+        "hand pointing up"
+      ]
+    },
+    {
+      "title": "far fa-hand-point-right",
+      "searchTerms": [
+        "finger",
+        "forward",
+        "hand-o-right",
+        "next",
+        "point",
+        "right",
+        "hand pointing right"
+      ]
+    },
+    {
+      "title": "fas fa-hand-point-right",
+      "searchTerms": [
+        "finger",
+        "forward",
+        "hand-o-right",
+        "next",
+        "point",
+        "right",
+        "hand pointing right"
+      ]
+    },
+    {
+      "title": "far fa-hand-point-left",
+      "searchTerms": [
+        "back",
+        "finger",
+        "hand-o-left",
+        "left",
+        "point",
+        "previous",
+        "hand pointing left"
+      ]
+    },
+    {
+      "title": "fas fa-hand-point-left",
+      "searchTerms": [
+        "back",
+        "finger",
+        "hand-o-left",
+        "left",
+        "point",
+        "previous",
+        "hand pointing left"
+      ]
+    },
+    {
+      "title": "far fa-hand-point-down",
+      "searchTerms": [
+        "finger",
+        "hand-o-down",
+        "point",
+        "hand pointing down"
+      ]
+    },
+    {
+      "title": "fas fa-hand-point-down",
+      "searchTerms": [
+        "finger",
+        "hand-o-down",
+        "point",
+        "hand pointing down"
+      ]
+    },
+    {
+      "title": "far fa-hand-peace",
+      "searchTerms": [
+        "rest",
+        "truce",
+        "peace (Hand)"
+      ]
+    },
+    {
+      "title": "fas fa-hand-peace",
+      "searchTerms": [
+        "rest",
+        "truce",
+        "peace (Hand)"
+      ]
+    },
+    {
+      "title": "far fa-hand-paper",
+      "searchTerms": [
+        "game",
+        "halt",
+        "roshambo",
+        "stop",
+        "paper (Hand)"
+      ]
+    },
+    {
+      "title": "fas fa-hand-paper",
+      "searchTerms": [
+        "game",
+        "halt",
+        "roshambo",
+        "stop",
+        "paper (Hand)"
+      ]
+    },
+    {
+      "title": "far fa-hand-lizard",
+      "searchTerms": [
+        "game",
+        "roshambo",
+        "lizard (Hand)"
+      ]
+    },
+    {
+      "title": "fas fa-hand-lizard",
+      "searchTerms": [
+        "game",
+        "roshambo",
+        "lizard (Hand)"
+      ]
+    },
+    {
+      "title": "far fa-grin-wink",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "flirt",
+        "laugh",
+        "smile",
+        "grinning winking face"
+      ]
+    },
+    {
+      "title": "fas fa-grin-wink",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "flirt",
+        "laugh",
+        "smile",
+        "grinning winking face"
+      ]
+    },
+    {
+      "title": "far fa-grin-tongue-wink",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "winking face with tongue"
+      ]
+    },
+    {
+      "title": "fas fa-grin-tongue-wink",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "winking face with tongue"
+      ]
+    },
+    {
+      "title": "far fa-grin-tongue-squint",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "squinting face with tongue"
+      ]
+    },
+    {
+      "title": "fas fa-grin-tongue-squint",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "squinting face with tongue"
+      ]
+    },
+    {
+      "title": "far fa-grin-tongue",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "face with tongue"
+      ]
+    },
+    {
+      "title": "fas fa-grin-tongue",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "face with tongue"
+      ]
+    },
+    {
+      "title": "far fa-grin-tears",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "face with tears of joy"
+      ]
+    },
+    {
+      "title": "fas fa-grin-tears",
+      "searchTerms": [
+        "LOL",
+        "emoticon",
+        "face",
+        "face with tears of joy"
+      ]
+    },
+    {
+      "title": "far fa-grin-stars",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "star-struck",
+        "star-Struck"
+      ]
+    },
+    {
+      "title": "fas fa-grin-stars",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "star-struck",
+        "star-Struck"
+      ]
+    },
+    {
+      "title": "far fa-grin-squint-tears",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "smile",
+        "rolling on the floor laughing"
+      ]
+    },
+    {
+      "title": "fas fa-grin-squint-tears",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "smile",
+        "rolling on the floor laughing"
+      ]
+    },
+    {
+      "title": "far fa-grin-squint",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "grinning squinting face"
+      ]
+    },
+    {
+      "title": "fas fa-grin-squint",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "grinning squinting face"
+      ]
+    },
+    {
+      "title": "far fa-grin-hearts",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "love",
+        "smile",
+        "smiling face with heart-Eyes"
+      ]
+    },
+    {
+      "title": "fas fa-grin-hearts",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "love",
+        "smile",
+        "smiling face with heart-Eyes"
+      ]
+    },
+    {
+      "title": "far fa-grin-beam-sweat",
+      "searchTerms": [
+        "embarass",
+        "emoticon",
+        "face",
+        "smile",
+        "grinning face with sweat"
+      ]
+    },
+    {
+      "title": "fas fa-grin-beam-sweat",
+      "searchTerms": [
+        "embarass",
+        "emoticon",
+        "face",
+        "smile",
+        "grinning face with sweat"
+      ]
+    },
+    {
+      "title": "far fa-grin-beam",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "grinning face with smiling eyes"
+      ]
+    },
+    {
+      "title": "fas fa-grin-beam",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "grinning face with smiling eyes"
+      ]
+    },
+    {
+      "title": "far fa-grin-alt",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "alternate grinning face"
+      ]
+    },
+    {
+      "title": "fas fa-grin-alt",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "alternate grinning face"
+      ]
+    },
+    {
+      "title": "far fa-grin",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "grinning face"
+      ]
+    },
+    {
+      "title": "fas fa-grin",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "laugh",
+        "smile",
+        "grinning face"
+      ]
+    },
+    {
+      "title": "far fa-grimace",
+      "searchTerms": [
+        "cringe",
+        "emoticon",
+        "face",
+        "teeth",
+        "grimacing face"
+      ]
+    },
+    {
+      "title": "fas fa-grimace",
+      "searchTerms": [
+        "cringe",
+        "emoticon",
+        "face",
+        "teeth",
+        "grimacing face"
+      ]
+    },
+    {
+      "title": "far fa-gem",
+      "searchTerms": [
+        "diamond",
+        "jewelry",
+        "sapphire",
+        "stone",
+        "treasure",
+        "gem"
+      ]
+    },
+    {
+      "title": "fas fa-gem",
+      "searchTerms": [
+        "diamond",
+        "jewelry",
+        "sapphire",
+        "stone",
+        "treasure",
+        "gem"
+      ]
+    },
+    {
+      "title": "far fa-futbol",
+      "searchTerms": [
+        "ball",
+        "football",
+        "mls",
+        "soccer",
+        "futbol"
+      ]
+    },
+    {
+      "title": "fas fa-futbol",
+      "searchTerms": [
+        "ball",
+        "football",
+        "mls",
+        "soccer",
+        "futbol"
+      ]
+    },
+    {
+      "title": "far fa-frown-open",
+      "searchTerms": [
+        "disapprove",
+        "emoticon",
+        "face",
+        "rating",
+        "sad",
+        "frowning face with open mouth"
+      ]
+    },
+    {
+      "title": "fas fa-frown-open",
+      "searchTerms": [
+        "disapprove",
+        "emoticon",
+        "face",
+        "rating",
+        "sad",
+        "frowning face with open mouth"
+      ]
+    },
+    {
+      "title": "far fa-frown",
+      "searchTerms": [
+        "disapprove",
+        "emoticon",
+        "face",
+        "rating",
+        "sad",
+        "frowning face"
+      ]
+    },
+    {
+      "title": "fas fa-frown",
+      "searchTerms": [
+        "disapprove",
+        "emoticon",
+        "face",
+        "rating",
+        "sad",
+        "frowning face"
+      ]
+    },
+    {
+      "title": "far fa-folder-open",
+      "searchTerms": [
+        "archive",
+        "directory",
+        "document",
+        "empty",
+        "file",
+        "new",
+        "folder open"
+      ]
+    },
+    {
+      "title": "fas fa-folder-open",
+      "searchTerms": [
+        "archive",
+        "directory",
+        "document",
+        "empty",
+        "file",
+        "new",
+        "folder open"
+      ]
+    },
+    {
+      "title": "far fa-folder",
+      "searchTerms": [
+        "archive",
+        "directory",
+        "document",
+        "file",
+        "folder"
+      ]
+    },
+    {
+      "title": "fas fa-folder",
+      "searchTerms": [
+        "archive",
+        "directory",
+        "document",
+        "file",
+        "folder"
+      ]
+    },
+    {
+      "title": "far fa-flushed",
+      "searchTerms": [
+        "embarrassed",
+        "emoticon",
+        "face",
+        "flushed face"
+      ]
+    },
+    {
+      "title": "fas fa-flushed",
+      "searchTerms": [
+        "embarrassed",
+        "emoticon",
+        "face",
+        "flushed face"
+      ]
+    },
+    {
+      "title": "far fa-flag",
+      "searchTerms": [
+        "country",
+        "notice",
+        "notification",
+        "notify",
+        "pole",
+        "report",
+        "symbol",
+        "flag"
+      ]
+    },
+    {
+      "title": "fas fa-flag",
+      "searchTerms": [
+        "country",
+        "notice",
+        "notification",
+        "notify",
+        "pole",
+        "report",
+        "symbol",
+        "flag"
+      ]
+    },
+    {
+      "title": "far fa-file-word",
+      "searchTerms": [
+        "document",
+        "edit",
+        "page",
+        "text",
+        "writing",
+        "word file"
+      ]
+    },
+    {
+      "title": "fas fa-file-word",
+      "searchTerms": [
+        "document",
+        "edit",
+        "page",
+        "text",
+        "writing",
+        "word file"
+      ]
+    },
+    {
+      "title": "far fa-file-video",
+      "searchTerms": [
+        "document",
+        "m4v",
+        "movie",
+        "mp4",
+        "play",
+        "video file"
+      ]
+    },
+    {
+      "title": "fas fa-file-video",
+      "searchTerms": [
+        "document",
+        "m4v",
+        "movie",
+        "mp4",
+        "play",
+        "video file"
+      ]
+    },
+    {
+      "title": "far fa-file-powerpoint",
+      "searchTerms": [
+        "display",
+        "document",
+        "keynote",
+        "presentation",
+        "powerpoint file"
+      ]
+    },
+    {
+      "title": "fas fa-file-powerpoint",
+      "searchTerms": [
+        "display",
+        "document",
+        "keynote",
+        "presentation",
+        "powerpoint file"
+      ]
+    },
+    {
+      "title": "far fa-file-pdf",
+      "searchTerms": [
+        "acrobat",
+        "document",
+        "preview",
+        "save",
+        "pDF file"
+      ]
+    },
+    {
+      "title": "fas fa-file-pdf",
+      "searchTerms": [
+        "acrobat",
+        "document",
+        "preview",
+        "save",
+        "pDF file"
+      ]
+    },
+    {
+      "title": "far fa-file-image",
+      "searchTerms": [
+        "document",
+        "image",
+        "jpg",
+        "photo",
+        "png",
+        "image file"
+      ]
+    },
+    {
+      "title": "fas fa-file-image",
+      "searchTerms": [
+        "document",
+        "image",
+        "jpg",
+        "photo",
+        "png",
+        "image file"
+      ]
+    },
+    {
+      "title": "far fa-file-excel",
+      "searchTerms": [
+        "csv",
+        "document",
+        "numbers",
+        "spreadsheets",
+        "table",
+        "excel file"
+      ]
+    },
+    {
+      "title": "fas fa-file-excel",
+      "searchTerms": [
+        "csv",
+        "document",
+        "numbers",
+        "spreadsheets",
+        "table",
+        "excel file"
+      ]
+    },
+    {
+      "title": "far fa-file-code",
+      "searchTerms": [
+        "css",
+        "development",
+        "document",
+        "html",
+        "code file"
+      ]
+    },
+    {
+      "title": "fas fa-file-code",
+      "searchTerms": [
+        "css",
+        "development",
+        "document",
+        "html",
+        "code file"
+      ]
+    },
+    {
+      "title": "far fa-file-audio",
+      "searchTerms": [
+        "document",
+        "mp3",
+        "music",
+        "page",
+        "play",
+        "sound",
+        "audio file"
+      ]
+    },
+    {
+      "title": "fas fa-file-audio",
+      "searchTerms": [
+        "document",
+        "mp3",
+        "music",
+        "page",
+        "play",
+        "sound",
+        "audio file"
+      ]
+    },
+    {
+      "title": "far fa-file-archive",
+      "searchTerms": [
+        ".zip",
+        "bundle",
+        "compress",
+        "compression",
+        "download",
+        "zip",
+        "archive file"
+      ]
+    },
+    {
+      "title": "fas fa-file-archive",
+      "searchTerms": [
+        ".zip",
+        "bundle",
+        "compress",
+        "compression",
+        "download",
+        "zip",
+        "archive file"
+      ]
+    },
+    {
+      "title": "far fa-file-alt",
+      "searchTerms": [
+        "document",
+        "file-text",
+        "invoice",
+        "new",
+        "page",
+        "pdf",
+        "alternate file"
+      ]
+    },
+    {
+      "title": "fas fa-file-alt",
+      "searchTerms": [
+        "document",
+        "file-text",
+        "invoice",
+        "new",
+        "page",
+        "pdf",
+        "alternate file"
+      ]
+    },
+    {
+      "title": "far fa-file",
+      "searchTerms": [
+        "document",
+        "new",
+        "page",
+        "pdf",
+        "resume",
+        "file"
+      ]
+    },
+    {
+      "title": "fas fa-file",
+      "searchTerms": [
+        "document",
+        "new",
+        "page",
+        "pdf",
+        "resume",
+        "file"
+      ]
+    },
+    {
+      "title": "far fa-eye-slash",
+      "searchTerms": [
+        "blind",
+        "hide",
+        "show",
+        "toggle",
+        "unseen",
+        "views",
+        "visible",
+        "visiblity",
+        "eye slash"
+      ]
+    },
+    {
+      "title": "fas fa-eye-slash",
+      "searchTerms": [
+        "blind",
+        "hide",
+        "show",
+        "toggle",
+        "unseen",
+        "views",
+        "visible",
+        "visiblity",
+        "eye slash"
+      ]
+    },
+    {
+      "title": "far fa-eye",
+      "searchTerms": [
+        "look",
+        "optic",
+        "see",
+        "seen",
+        "show",
+        "sight",
+        "views",
+        "visible",
+        "eye"
+      ]
+    },
+    {
+      "title": "fas fa-eye",
+      "searchTerms": [
+        "look",
+        "optic",
+        "see",
+        "seen",
+        "show",
+        "sight",
+        "views",
+        "visible",
+        "eye"
+      ]
+    },
+    {
+      "title": "far fa-envelope-open",
+      "searchTerms": [
+        "e-mail",
+        "email",
+        "letter",
+        "mail",
+        "message",
+        "notification",
+        "support",
+        "envelope open"
+      ]
+    },
+    {
+      "title": "fas fa-envelope-open",
+      "searchTerms": [
+        "e-mail",
+        "email",
+        "letter",
+        "mail",
+        "message",
+        "notification",
+        "support",
+        "envelope open"
+      ]
+    },
+    {
+      "title": "far fa-envelope",
+      "searchTerms": [
+        "e-mail",
+        "email",
+        "letter",
+        "mail",
+        "message",
+        "notification",
+        "support",
+        "envelope"
+      ]
+    },
+    {
+      "title": "fas fa-envelope",
+      "searchTerms": [
+        "e-mail",
+        "email",
+        "letter",
+        "mail",
+        "message",
+        "notification",
+        "support",
+        "envelope"
+      ]
+    },
+    {
+      "title": "far fa-edit",
+      "searchTerms": [
+        "edit",
+        "pen",
+        "pencil",
+        "update",
+        "write",
+        "edit"
+      ]
+    },
+    {
+      "title": "fas fa-edit",
+      "searchTerms": [
+        "edit",
+        "pen",
+        "pencil",
+        "update",
+        "write",
+        "edit"
+      ]
+    },
+    {
+      "title": "far fa-dot-circle",
+      "searchTerms": [
+        "bullseye",
+        "notification",
+        "target",
+        "dot circle"
+      ]
+    },
+    {
+      "title": "fas fa-dot-circle",
+      "searchTerms": [
+        "bullseye",
+        "notification",
+        "target",
+        "dot circle"
+      ]
+    },
+    {
+      "title": "far fa-dizzy",
+      "searchTerms": [
+        "dazed",
+        "dead",
+        "disapprove",
+        "emoticon",
+        "face",
+        "dizzy face"
+      ]
+    },
+    {
+      "title": "fas fa-dizzy",
+      "searchTerms": [
+        "dazed",
+        "dead",
+        "disapprove",
+        "emoticon",
+        "face",
+        "dizzy face"
+      ]
+    },
+    {
+      "title": "far fa-credit-card",
+      "searchTerms": [
+        "buy",
+        "checkout",
+        "credit-card-alt",
+        "debit",
+        "money",
+        "payment",
+        "purchase",
+        "credit card"
+      ]
+    },
+    {
+      "title": "fas fa-credit-card",
+      "searchTerms": [
+        "buy",
+        "checkout",
+        "credit-card-alt",
+        "debit",
+        "money",
+        "payment",
+        "purchase",
+        "credit card"
+      ]
+    },
+    {
+      "title": "far fa-copyright",
+      "searchTerms": [
+        "brand",
+        "mark",
+        "register",
+        "trademark",
+        "copyright"
+      ]
+    },
+    {
+      "title": "fas fa-copyright",
+      "searchTerms": [
+        "brand",
+        "mark",
+        "register",
+        "trademark",
+        "copyright"
+      ]
+    },
+    {
+      "title": "far fa-copy",
+      "searchTerms": [
+        "clone",
+        "duplicate",
+        "file",
+        "files-o",
+        "paper",
+        "paste",
+        "copy"
+      ]
+    },
+    {
+      "title": "fas fa-copy",
+      "searchTerms": [
+        "clone",
+        "duplicate",
+        "file",
+        "files-o",
+        "paper",
+        "paste",
+        "copy"
+      ]
+    },
+    {
+      "title": "far fa-compass",
+      "searchTerms": [
+        "directions",
+        "directory",
+        "location",
+        "menu",
+        "navigation",
+        "safari",
+        "travel",
+        "compass"
+      ]
+    },
+    {
+      "title": "fas fa-compass",
+      "searchTerms": [
+        "directions",
+        "directory",
+        "location",
+        "menu",
+        "navigation",
+        "safari",
+        "travel",
+        "compass"
+      ]
+    },
+    {
+      "title": "far fa-comments",
+      "searchTerms": [
+        "bubble",
+        "chat",
+        "commenting",
+        "conversation",
+        "feedback",
+        "message",
+        "note",
+        "notification",
+        "sms",
+        "speech",
+        "texting",
+        "comments"
+      ]
+    },
+    {
+      "title": "fas fa-comments",
+      "searchTerms": [
+        "bubble",
+        "chat",
+        "commenting",
+        "conversation",
+        "feedback",
+        "message",
+        "note",
+        "notification",
+        "sms",
+        "speech",
+        "texting",
+        "comments"
+      ]
+    },
+    {
+      "title": "far fa-comment-dots",
+      "searchTerms": [
+        "bubble",
+        "chat",
+        "commenting",
+        "conversation",
+        "feedback",
+        "message",
+        "more",
+        "note",
+        "notification",
+        "reply",
+        "sms",
+        "speech",
+        "texting",
+        "comment dots"
+      ]
+    },
+    {
+      "title": "fas fa-comment-dots",
+      "searchTerms": [
+        "bubble",
+        "chat",
+        "commenting",
+        "conversation",
+        "feedback",
+        "message",
+        "more",
+        "note",
+        "notification",
+        "reply",
+        "sms",
+        "speech",
+        "texting",
+        "comment dots"
+      ]
+    },
+    {
+      "title": "far fa-comment-alt",
+      "searchTerms": [
+        "bubble",
+        "chat",
+        "commenting",
+        "conversation",
+        "feedback",
+        "message",
+        "note",
+        "notification",
+        "sms",
+        "speech",
+        "texting",
+        "alternate comment"
+      ]
+    },
+    {
+      "title": "fas fa-comment-alt",
+      "searchTerms": [
+        "bubble",
+        "chat",
+        "commenting",
+        "conversation",
+        "feedback",
+        "message",
+        "note",
+        "notification",
+        "sms",
+        "speech",
+        "texting",
+        "alternate comment"
+      ]
+    },
+    {
+      "title": "far fa-comment",
+      "searchTerms": [
+        "bubble",
+        "chat",
+        "commenting",
+        "conversation",
+        "feedback",
+        "message",
+        "note",
+        "notification",
+        "sms",
+        "speech",
+        "texting",
+        "comment"
+      ]
+    },
+    {
+      "title": "fas fa-comment",
+      "searchTerms": [
+        "bubble",
+        "chat",
+        "commenting",
+        "conversation",
+        "feedback",
+        "message",
+        "note",
+        "notification",
+        "sms",
+        "speech",
+        "texting",
+        "comment"
+      ]
+    },
+    {
+      "title": "far fa-closed-captioning",
+      "searchTerms": [
+        "cc",
+        "deaf",
+        "hearing",
+        "subtitle",
+        "subtitling",
+        "text",
+        "video",
+        "closed captioning"
+      ]
+    },
+    {
+      "title": "fas fa-closed-captioning",
+      "searchTerms": [
+        "cc",
+        "deaf",
+        "hearing",
+        "subtitle",
+        "subtitling",
+        "text",
+        "video",
+        "closed captioning"
+      ]
+    },
+    {
+      "title": "far fa-clone",
+      "searchTerms": [
+        "arrange",
+        "copy",
+        "duplicate",
+        "paste",
+        "clone"
+      ]
+    },
+    {
+      "title": "fas fa-clone",
+      "searchTerms": [
+        "arrange",
+        "copy",
+        "duplicate",
+        "paste",
+        "clone"
+      ]
+    },
+    {
+      "title": "far fa-clock",
+      "searchTerms": [
+        "date",
+        "late",
+        "schedule",
+        "time",
+        "timer",
+        "timestamp",
+        "watch",
+        "clock"
+      ]
+    },
+    {
+      "title": "fas fa-clock",
+      "searchTerms": [
+        "date",
+        "late",
+        "schedule",
+        "time",
+        "timer",
+        "timestamp",
+        "watch",
+        "clock"
+      ]
+    },
+    {
+      "title": "far fa-clipboard",
+      "searchTerms": [
+        "copy",
+        "notes",
+        "paste",
+        "record",
+        "clipboard"
+      ]
+    },
+    {
+      "title": "fas fa-clipboard",
+      "searchTerms": [
+        "copy",
+        "notes",
+        "paste",
+        "record",
+        "clipboard"
+      ]
+    },
+    {
+      "title": "far fa-circle",
+      "searchTerms": [
+        "circle-thin",
+        "diameter",
+        "dot",
+        "ellipse",
+        "notification",
+        "round",
+        "circle"
+      ]
+    },
+    {
+      "title": "fas fa-circle",
+      "searchTerms": [
+        "circle-thin",
+        "diameter",
+        "dot",
+        "ellipse",
+        "notification",
+        "round",
+        "circle"
+      ]
+    },
+    {
+      "title": "far fa-check-square",
+      "searchTerms": [
+        "accept",
+        "agree",
+        "checkmark",
+        "confirm",
+        "correct",
+        "done",
+        "ok",
+        "select",
+        "success",
+        "tick",
+        "todo",
+        "yes",
+        "check square"
+      ]
+    },
+    {
+      "title": "fas fa-check-square",
+      "searchTerms": [
+        "accept",
+        "agree",
+        "checkmark",
+        "confirm",
+        "correct",
+        "done",
+        "ok",
+        "select",
+        "success",
+        "tick",
+        "todo",
+        "yes",
+        "check square"
+      ]
+    },
+    {
+      "title": "far fa-check-circle",
+      "searchTerms": [
+        "accept",
+        "agree",
+        "confirm",
+        "correct",
+        "done",
+        "ok",
+        "select",
+        "success",
+        "tick",
+        "todo",
+        "yes",
+        "check circle"
+      ]
+    },
+    {
+      "title": "fas fa-check-circle",
+      "searchTerms": [
+        "accept",
+        "agree",
+        "confirm",
+        "correct",
+        "done",
+        "ok",
+        "select",
+        "success",
+        "tick",
+        "todo",
+        "yes",
+        "check circle"
+      ]
+    },
+    {
+      "title": "far fa-chart-bar",
+      "searchTerms": [
+        "analytics",
+        "bar",
+        "chart",
+        "graph",
+        "bar chart"
+      ]
+    },
+    {
+      "title": "fas fa-chart-bar",
+      "searchTerms": [
+        "analytics",
+        "bar",
+        "chart",
+        "graph",
+        "bar chart"
+      ]
+    },
+    {
+      "title": "far fa-caret-square-up",
+      "searchTerms": [
+        "arrow",
+        "caret-square-o-up",
+        "collapse",
+        "triangle",
+        "upload",
+        "caret square up"
+      ]
+    },
+    {
+      "title": "fas fa-caret-square-up",
+      "searchTerms": [
+        "arrow",
+        "caret-square-o-up",
+        "collapse",
+        "triangle",
+        "upload",
+        "caret square up"
+      ]
+    },
+    {
+      "title": "far fa-caret-square-right",
+      "searchTerms": [
+        "arrow",
+        "caret-square-o-right",
+        "forward",
+        "next",
+        "triangle",
+        "caret square right"
+      ]
+    },
+    {
+      "title": "fas fa-caret-square-right",
+      "searchTerms": [
+        "arrow",
+        "caret-square-o-right",
+        "forward",
+        "next",
+        "triangle",
+        "caret square right"
+      ]
+    },
+    {
+      "title": "far fa-caret-square-left",
+      "searchTerms": [
+        "arrow",
+        "back",
+        "caret-square-o-left",
+        "previous",
+        "triangle",
+        "caret square left"
+      ]
+    },
+    {
+      "title": "fas fa-caret-square-left",
+      "searchTerms": [
+        "arrow",
+        "back",
+        "caret-square-o-left",
+        "previous",
+        "triangle",
+        "caret square left"
+      ]
+    },
+    {
+      "title": "far fa-caret-square-down",
+      "searchTerms": [
+        "arrow",
+        "caret-square-o-down",
+        "dropdown",
+        "expand",
+        "menu",
+        "more",
+        "triangle",
+        "caret square down"
+      ]
+    },
+    {
+      "title": "fas fa-caret-square-down",
+      "searchTerms": [
+        "arrow",
+        "caret-square-o-down",
+        "dropdown",
+        "expand",
+        "menu",
+        "more",
+        "triangle",
+        "caret square down"
+      ]
+    },
+    {
+      "title": "far fa-calendar-times",
+      "searchTerms": [
+        "archive",
+        "calendar",
+        "date",
+        "delete",
+        "event",
+        "remove",
+        "schedule",
+        "time",
+        "when",
+        "x",
+        "calendar times"
+      ]
+    },
+    {
+      "title": "fas fa-calendar-times",
+      "searchTerms": [
+        "archive",
+        "calendar",
+        "date",
+        "delete",
+        "event",
+        "remove",
+        "schedule",
+        "time",
+        "when",
+        "x",
+        "calendar times"
+      ]
+    },
+    {
+      "title": "far fa-calendar-plus",
+      "searchTerms": [
+        "add",
+        "calendar",
+        "create",
+        "date",
+        "event",
+        "new",
+        "positive",
+        "schedule",
+        "time",
+        "when",
+        "calendar plus"
+      ]
+    },
+    {
+      "title": "fas fa-calendar-plus",
+      "searchTerms": [
+        "add",
+        "calendar",
+        "create",
+        "date",
+        "event",
+        "new",
+        "positive",
+        "schedule",
+        "time",
+        "when",
+        "calendar plus"
+      ]
+    },
+    {
+      "title": "far fa-calendar-minus",
+      "searchTerms": [
+        "calendar",
+        "date",
+        "delete",
+        "event",
+        "negative",
+        "remove",
+        "schedule",
+        "time",
+        "when",
+        "calendar minus"
+      ]
+    },
+    {
+      "title": "fas fa-calendar-minus",
+      "searchTerms": [
+        "calendar",
+        "date",
+        "delete",
+        "event",
+        "negative",
+        "remove",
+        "schedule",
+        "time",
+        "when",
+        "calendar minus"
+      ]
+    },
+    {
+      "title": "far fa-calendar-check",
+      "searchTerms": [
+        "accept",
+        "agree",
+        "appointment",
+        "confirm",
+        "correct",
+        "date",
+        "done",
+        "event",
+        "ok",
+        "schedule",
+        "select",
+        "success",
+        "tick",
+        "time",
+        "todo",
+        "when",
+        "calendar check"
+      ]
+    },
+    {
+      "title": "fas fa-calendar-check",
+      "searchTerms": [
+        "accept",
+        "agree",
+        "appointment",
+        "confirm",
+        "correct",
+        "date",
+        "done",
+        "event",
+        "ok",
+        "schedule",
+        "select",
+        "success",
+        "tick",
+        "time",
+        "todo",
+        "when",
+        "calendar check"
+      ]
+    },
+    {
+      "title": "far fa-calendar-alt",
+      "searchTerms": [
+        "calendar",
+        "date",
+        "event",
+        "schedule",
+        "time",
+        "when",
+        "alternate calendar"
+      ]
+    },
+    {
+      "title": "fas fa-calendar-alt",
+      "searchTerms": [
+        "calendar",
+        "date",
+        "event",
+        "schedule",
+        "time",
+        "when",
+        "alternate calendar"
+      ]
+    },
+    {
+      "title": "far fa-calendar",
+      "searchTerms": [
+        "calendar-o",
+        "date",
+        "event",
+        "schedule",
+        "time",
+        "when",
+        "calendar"
+      ]
+    },
+    {
+      "title": "fas fa-calendar",
+      "searchTerms": [
+        "calendar-o",
+        "date",
+        "event",
+        "schedule",
+        "time",
+        "when",
+        "calendar"
+      ]
+    },
+    {
+      "title": "far fa-building",
+      "searchTerms": [
+        "apartment",
+        "business",
+        "city",
+        "company",
+        "office",
+        "work",
+        "building"
+      ]
+    },
+    {
+      "title": "fas fa-building",
+      "searchTerms": [
+        "apartment",
+        "business",
+        "city",
+        "company",
+        "office",
+        "work",
+        "building"
+      ]
+    },
+    {
+      "title": "far fa-bookmark",
+      "searchTerms": [
+        "favorite",
+        "marker",
+        "read",
+        "remember",
+        "save",
+        "bookmark"
+      ]
+    },
+    {
+      "title": "fas fa-bookmark",
+      "searchTerms": [
+        "favorite",
+        "marker",
+        "read",
+        "remember",
+        "save",
+        "bookmark"
+      ]
+    },
+    {
+      "title": "far fa-bell-slash",
+      "searchTerms": [
+        "alert",
+        "cancel",
+        "disabled",
+        "notification",
+        "off",
+        "reminder",
+        "bell slash"
+      ]
+    },
+    {
+      "title": "fas fa-bell-slash",
+      "searchTerms": [
+        "alert",
+        "cancel",
+        "disabled",
+        "notification",
+        "off",
+        "reminder",
+        "bell slash"
+      ]
+    },
+    {
+      "title": "far fa-bell",
+      "searchTerms": [
+        "alarm",
+        "alert",
+        "chime",
+        "notification",
+        "reminder",
+        "bell"
+      ]
+    },
+    {
+      "title": "fas fa-bell",
+      "searchTerms": [
+        "alarm",
+        "alert",
+        "chime",
+        "notification",
+        "reminder",
+        "bell"
+      ]
+    },
+    {
+      "title": "far fa-arrow-alt-circle-up",
+      "searchTerms": [
+        "arrow-circle-o-up",
+        "alternate arrow circle up"
+      ]
+    },
+    {
+      "title": "fas fa-arrow-alt-circle-up",
+      "searchTerms": [
+        "arrow-circle-o-up",
+        "alternate arrow circle up"
+      ]
+    },
+    {
+      "title": "far fa-arrow-alt-circle-right",
+      "searchTerms": [
+        "arrow-circle-o-right",
+        "forward",
+        "next",
+        "alternate arrow circle right"
+      ]
+    },
+    {
+      "title": "fas fa-arrow-alt-circle-right",
+      "searchTerms": [
+        "arrow-circle-o-right",
+        "forward",
+        "next",
+        "alternate arrow circle right"
+      ]
+    },
+    {
+      "title": "far fa-arrow-alt-circle-left",
+      "searchTerms": [
+        "arrow-circle-o-left",
+        "back",
+        "previous",
+        "alternate arrow circle left"
+      ]
+    },
+    {
+      "title": "fas fa-arrow-alt-circle-left",
+      "searchTerms": [
+        "arrow-circle-o-left",
+        "back",
+        "previous",
+        "alternate arrow circle left"
+      ]
+    },
+    {
+      "title": "far fa-arrow-alt-circle-down",
+      "searchTerms": [
+        "arrow-circle-o-down",
+        "download",
+        "alternate arrow circle down"
+      ]
+    },
+    {
+      "title": "fas fa-arrow-alt-circle-down",
+      "searchTerms": [
+        "arrow-circle-o-down",
+        "download",
+        "alternate arrow circle down"
+      ]
+    },
+    {
+      "title": "far fa-angry",
+      "searchTerms": [
+        "disapprove",
+        "emoticon",
+        "face",
+        "mad",
+        "upset",
+        "angry face"
+      ]
+    },
+    {
+      "title": "fas fa-angry",
+      "searchTerms": [
+        "disapprove",
+        "emoticon",
+        "face",
+        "mad",
+        "upset",
+        "angry face"
+      ]
+    },
+    {
+      "title": "far fa-address-card",
+      "searchTerms": [
+        "about",
+        "contact",
+        "id",
+        "identification",
+        "postcard",
+        "profile",
+        "address card"
+      ]
+    },
+    {
+      "title": "fas fa-address-card",
+      "searchTerms": [
+        "about",
+        "contact",
+        "id",
+        "identification",
+        "postcard",
+        "profile",
+        "address card"
+      ]
+    },
+    {
+      "title": "far fa-address-book",
+      "searchTerms": [
+        "contact",
+        "directory",
+        "index",
+        "little black book",
+        "rolodex",
+        "address book"
+      ]
+    },
+    {
+      "title": "fas fa-address-book",
+      "searchTerms": [
+        "contact",
+        "directory",
+        "index",
+        "little black book",
+        "rolodex",
+        "address book"
+      ]
+    }
+  ]

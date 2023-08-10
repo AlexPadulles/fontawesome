@@ -1,0 +1,2208 @@
+[
+    {
+      "title": "far fa-sticky-note",
+      "searchTerms": [
+        "message",
+        "note",
+        "paper",
+        "reminder",
+        "sticker",
+        "sticky note"
+      ]
+    },
+    {
+      "title": "fas fa-sticky-note",
+      "searchTerms": [
+        "message",
+        "note",
+        "paper",
+        "reminder",
+        "sticker",
+        "sticky note"
+      ]
+    },
+    {
+      "title": "fas fa-stethoscope",
+      "searchTerms": [
+        "covid-19",
+        "diagnosis",
+        "doctor",
+        "general practitioner",
+        "hospital",
+        "infirmary",
+        "medicine",
+        "office",
+        "outpatient",
+        "stethoscope"
+      ]
+    },
+    {
+      "title": "fas fa-step-forward",
+      "searchTerms": [
+        "end",
+        "last",
+        "next",
+        "step-forward"
+      ]
+    },
+    {
+      "title": "fas fa-step-backward",
+      "searchTerms": [
+        "beginning",
+        "first",
+        "previous",
+        "rewind",
+        "start",
+        "step-backward"
+      ]
+    },
+    {
+      "title": "fas fa-star-of-life",
+      "searchTerms": [
+        "doctor",
+        "emt",
+        "first aid",
+        "health",
+        "medical",
+        "star of life"
+      ]
+    },
+    {
+      "title": "fas fa-star-of-david",
+      "searchTerms": [
+        "jewish",
+        "judaism",
+        "religion",
+        "star of david"
+      ]
+    },
+    {
+      "title": "fas fa-star-half-alt",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "rating",
+        "score",
+        "star-half-empty",
+        "star-half-full",
+        "alternate star half"
+      ]
+    },
+    {
+      "title": "far fa-star-half",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "rating",
+        "score",
+        "star-half-empty",
+        "star-half-full",
+        "star-half"
+      ]
+    },
+    {
+      "title": "fas fa-star-half",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "rating",
+        "score",
+        "star-half-empty",
+        "star-half-full",
+        "star-half"
+      ]
+    },
+    {
+      "title": "fas fa-star-and-crescent",
+      "searchTerms": [
+        "islam",
+        "muslim",
+        "religion",
+        "star and crescent"
+      ]
+    },
+    {
+      "title": "far fa-star",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "favorite",
+        "important",
+        "night",
+        "rating",
+        "score",
+        "star"
+      ]
+    },
+    {
+      "title": "fas fa-star",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "favorite",
+        "important",
+        "night",
+        "rating",
+        "score",
+        "star"
+      ]
+    },
+    {
+      "title": "fas fa-stamp",
+      "searchTerms": [
+        "art",
+        "certificate",
+        "imprint",
+        "rubber",
+        "seal",
+        "stamp"
+      ]
+    },
+    {
+      "title": "fas fa-square-root-alt",
+      "searchTerms": [
+        "arithmetic",
+        "calculus",
+        "division",
+        "math",
+        "alternate square root"
+      ]
+    },
+    {
+      "title": "fas fa-square-full",
+      "searchTerms": [
+        "block",
+        "box",
+        "shape",
+        "square full"
+      ]
+    },
+    {
+      "title": "far fa-square",
+      "searchTerms": [
+        "block",
+        "box",
+        "shape",
+        "square"
+      ]
+    },
+    {
+      "title": "fas fa-square",
+      "searchTerms": [
+        "block",
+        "box",
+        "shape",
+        "square"
+      ]
+    },
+    {
+      "title": "fas fa-spray-can",
+      "searchTerms": [
+        "Paint",
+        "aerosol",
+        "design",
+        "graffiti",
+        "tag",
+        "spray can"
+      ]
+    },
+    {
+      "title": "fas fa-splotch",
+      "searchTerms": [
+        "Ink",
+        "blob",
+        "blotch",
+        "glob",
+        "stain",
+        "splotch"
+      ]
+    },
+    {
+      "title": "fas fa-spinner",
+      "searchTerms": [
+        "circle",
+        "loading",
+        "progress",
+        "spinner"
+      ]
+    },
+    {
+      "title": "fas fa-spider",
+      "searchTerms": [
+        "arachnid",
+        "bug",
+        "charlotte",
+        "crawl",
+        "eight",
+        "halloween",
+        "spider"
+      ]
+    },
+    {
+      "title": "fas fa-spell-check",
+      "searchTerms": [
+        "dictionary",
+        "edit",
+        "editor",
+        "grammar",
+        "text",
+        "spell check"
+      ]
+    },
+    {
+      "title": "fas fa-space-shuttle",
+      "searchTerms": [
+        "astronaut",
+        "machine",
+        "nasa",
+        "rocket",
+        "space",
+        "transportation",
+        "space shuttle"
+      ]
+    },
+    {
+      "title": "fas fa-spa",
+      "searchTerms": [
+        "flora",
+        "massage",
+        "mindfulness",
+        "plant",
+        "wellness",
+        "spa"
+      ]
+    },
+    {
+      "title": "fas fa-sort-up",
+      "searchTerms": [
+        "arrow",
+        "ascending",
+        "filter",
+        "order",
+        "sort-asc",
+        "sort up (Ascending)"
+      ]
+    },
+    {
+      "title": "fas fa-sort-numeric-up-alt",
+      "searchTerms": [
+        "arrange",
+        "filter",
+        "numbers",
+        "order",
+        "sort-numeric-desc",
+        "alternate sort numeric up"
+      ]
+    },
+    {
+      "title": "fas fa-sort-numeric-up",
+      "searchTerms": [
+        "arrange",
+        "filter",
+        "numbers",
+        "order",
+        "sort-numeric-desc",
+        "sort numeric up"
+      ]
+    },
+    {
+      "title": "fas fa-sort-numeric-down-alt",
+      "searchTerms": [
+        "arrange",
+        "filter",
+        "numbers",
+        "order",
+        "sort-numeric-asc",
+        "alternate sort numeric down"
+      ]
+    },
+    {
+      "title": "fas fa-sort-numeric-down",
+      "searchTerms": [
+        "arrange",
+        "filter",
+        "numbers",
+        "order",
+        "sort-numeric-asc",
+        "sort numeric down"
+      ]
+    },
+    {
+      "title": "fas fa-sort-down",
+      "searchTerms": [
+        "arrow",
+        "descending",
+        "filter",
+        "order",
+        "sort-desc",
+        "sort down (Descending)"
+      ]
+    },
+    {
+      "title": "fas fa-sort-amount-up-alt",
+      "searchTerms": [
+        "arrange",
+        "filter",
+        "order",
+        "sort-amount-desc",
+        "alternate sort amount up"
+      ]
+    },
+    {
+      "title": "fas fa-sort-amount-up",
+      "searchTerms": [
+        "arrange",
+        "filter",
+        "order",
+        "sort-amount-desc",
+        "sort amount up"
+      ]
+    },
+    {
+      "title": "fas fa-sort-amount-down-alt",
+      "searchTerms": [
+        "arrange",
+        "filter",
+        "order",
+        "sort-amount-asc",
+        "alternate sort amount down"
+      ]
+    },
+    {
+      "title": "fas fa-sort-amount-down",
+      "searchTerms": [
+        "arrange",
+        "filter",
+        "number",
+        "order",
+        "sort-amount-asc",
+        "sort amount down"
+      ]
+    },
+    {
+      "title": "fas fa-sort-alpha-up-alt",
+      "searchTerms": [
+        "alphabetical",
+        "arrange",
+        "filter",
+        "order",
+        "sort-alpha-desc",
+        "alternate sort alphabetical up"
+      ]
+    },
+    {
+      "title": "fas fa-sort-alpha-up",
+      "searchTerms": [
+        "alphabetical",
+        "arrange",
+        "filter",
+        "order",
+        "sort-alpha-desc",
+        "sort alphabetical up"
+      ]
+    },
+    {
+      "title": "fas fa-sort-alpha-down-alt",
+      "searchTerms": [
+        "alphabetical",
+        "arrange",
+        "filter",
+        "order",
+        "sort-alpha-asc",
+        "alternate sort alphabetical down"
+      ]
+    },
+    {
+      "title": "fas fa-sort-alpha-down",
+      "searchTerms": [
+        "alphabetical",
+        "arrange",
+        "filter",
+        "order",
+        "sort-alpha-asc",
+        "sort alphabetical down"
+      ]
+    },
+    {
+      "title": "fas fa-sort",
+      "searchTerms": [
+        "filter",
+        "order",
+        "sort"
+      ]
+    },
+    {
+      "title": "fas fa-solar-panel",
+      "searchTerms": [
+        "clean",
+        "eco-friendly",
+        "energy",
+        "green",
+        "sun",
+        "solar panel"
+      ]
+    },
+    {
+      "title": "fas fa-socks",
+      "searchTerms": [
+        "business socks",
+        "business time",
+        "clothing",
+        "feet",
+        "flight of the conchords",
+        "wednesday",
+        "socks"
+      ]
+    },
+    {
+      "title": "fas fa-soap",
+      "searchTerms": [
+        "bubbles",
+        "clean",
+        "covid-19",
+        "hygiene",
+        "wash",
+        "soap"
+      ]
+    },
+    {
+      "title": "fas fa-snowplow",
+      "searchTerms": [
+        "clean up",
+        "cold",
+        "road",
+        "storm",
+        "winter",
+        "snowplow"
+      ]
+    },
+    {
+      "title": "fas fa-snowman",
+      "searchTerms": [
+        "decoration",
+        "frost",
+        "frosty",
+        "holiday",
+        "snowman"
+      ]
+    },
+    {
+      "title": "far fa-snowflake",
+      "searchTerms": [
+        "precipitation",
+        "rain",
+        "winter",
+        "snowflake"
+      ]
+    },
+    {
+      "title": "fas fa-snowflake",
+      "searchTerms": [
+        "precipitation",
+        "rain",
+        "winter",
+        "snowflake"
+      ]
+    },
+    {
+      "title": "fas fa-snowboarding",
+      "searchTerms": [
+        "activity",
+        "fitness",
+        "olympics",
+        "outdoors",
+        "person",
+        "snowboarding"
+      ]
+    },
+    {
+      "title": "fas fa-sms",
+      "searchTerms": [
+        "chat",
+        "conversation",
+        "message",
+        "mobile",
+        "notification",
+        "phone",
+        "sms",
+        "texting",
+        "sMS"
+      ]
+    },
+    {
+      "title": "fas fa-smoking-ban",
+      "searchTerms": [
+        "ban",
+        "cancel",
+        "no smoking",
+        "non-smoking",
+        "smoking ban"
+      ]
+    },
+    {
+      "title": "fas fa-smoking",
+      "searchTerms": [
+        "cancer",
+        "cigarette",
+        "nicotine",
+        "smoking status",
+        "tobacco",
+        "smoking"
+      ]
+    },
+    {
+      "title": "fas fa-smog",
+      "searchTerms": [
+        "dragon",
+        "fog",
+        "haze",
+        "pollution",
+        "smoke",
+        "weather",
+        "smog"
+      ]
+    },
+    {
+      "title": "far fa-smile-wink",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "hint",
+        "joke",
+        "winking face"
+      ]
+    },
+    {
+      "title": "fas fa-smile-wink",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "hint",
+        "joke",
+        "winking face"
+      ]
+    },
+    {
+      "title": "far fa-smile-beam",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "positive",
+        "beaming face with smiling eyes"
+      ]
+    },
+    {
+      "title": "fas fa-smile-beam",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "happy",
+        "positive",
+        "beaming face with smiling eyes"
+      ]
+    },
+    {
+      "title": "far fa-smile",
+      "searchTerms": [
+        "approve",
+        "emoticon",
+        "face",
+        "happy",
+        "rating",
+        "satisfied",
+        "smiling face"
+      ]
+    },
+    {
+      "title": "fas fa-smile",
+      "searchTerms": [
+        "approve",
+        "emoticon",
+        "face",
+        "happy",
+        "rating",
+        "satisfied",
+        "smiling face"
+      ]
+    },
+    {
+      "title": "fas fa-sliders-h",
+      "searchTerms": [
+        "adjust",
+        "settings",
+        "sliders",
+        "toggle",
+        "horizontal sliders"
+      ]
+    },
+    {
+      "title": "fas fa-sleigh",
+      "searchTerms": [
+        "christmas",
+        "claus",
+        "fly",
+        "holiday",
+        "santa",
+        "sled",
+        "snow",
+        "xmas",
+        "sleigh"
+      ]
+    },
+    {
+      "title": "fas fa-slash",
+      "searchTerms": [
+        "cancel",
+        "close",
+        "mute",
+        "off",
+        "stop",
+        "x",
+        "slash"
+      ]
+    },
+    {
+      "title": "fas fa-skull-crossbones",
+      "searchTerms": [
+        "Dungeons &Dragons",
+        "alert",
+        "bones",
+        "d &d ",
+        "danger",
+        "dead",
+        "deadly",
+        "death",
+        "dnd",
+        "fantasy",
+        "halloween",
+        "holiday",
+        "jolly-roger",
+        "pirate",
+        "poison",
+        "skeleton",
+        "warning",
+        "skull &crossbones"
+      ]
+    },
+    {
+      "title": "fas fa-skull",
+      "searchTerms": [
+        "bones",
+        "skeleton",
+        "x-ray",
+        "yorick",
+        "skull"
+      ]
+    },
+    {
+      "title": "fas fa-skiing-nordic",
+      "searchTerms": [
+        "activity",
+        "cross country",
+        "fitness",
+        "outdoors",
+        "person",
+        "seasonal",
+        "skiing nordic"
+      ]
+    },
+    {
+      "title": "fas fa-skiing",
+      "searchTerms": [
+        "activity",
+        "downhill",
+        "fast",
+        "fitness",
+        "olympics",
+        "outdoors",
+        "person",
+        "seasonal",
+        "slalom",
+        "skiing"
+      ]
+    },
+    {
+      "title": "fas fa-skating",
+      "searchTerms": [
+        "activity",
+        "figure skating",
+        "fitness",
+        "ice",
+        "person",
+        "winter",
+        "skating"
+      ]
+    },
+    {
+      "title": "fas fa-sitemap",
+      "searchTerms": [
+        "directory",
+        "hierarchy",
+        "ia",
+        "information architecture",
+        "organization",
+        "sitemap"
+      ]
+    },
+    {
+      "title": "fas fa-sink",
+      "searchTerms": [
+        "bathroom",
+        "covid-19",
+        "faucet",
+        "kitchen",
+        "wash",
+        "sink"
+      ]
+    },
+    {
+      "title": "fas fa-sim-card",
+      "searchTerms": [
+        "hard drive",
+        "hardware",
+        "portable",
+        "storage",
+        "technology",
+        "tiny",
+        "sIM card"
+      ]
+    },
+    {
+      "title": "fas fa-signature",
+      "searchTerms": [
+        "John Hancock",
+        "cursive",
+        "name",
+        "writing",
+        "signature"
+      ]
+    },
+    {
+      "title": "fas fa-signal",
+      "searchTerms": [
+        "bars",
+        "graph",
+        "online",
+        "reception",
+        "status",
+        "signal"
+      ]
+    },
+    {
+      "title": "fas fa-sign-out-alt",
+      "searchTerms": [
+        "arrow",
+        "exit",
+        "leave",
+        "log out",
+        "logout",
+        "sign-out",
+        "alternate sign out"
+      ]
+    },
+    {
+      "title": "fas fa-sign-language",
+      "searchTerms": [
+        "Translate",
+        "asl",
+        "deaf",
+        "hands",
+        "sign language"
+      ]
+    },
+    {
+      "title": "fas fa-sign-in-alt",
+      "searchTerms": [
+        "arrow",
+        "enter",
+        "join",
+        "log in",
+        "login",
+        "sign in",
+        "sign up",
+        "sign-in",
+        "signin",
+        "signup",
+        "alternate sign in"
+      ]
+    },
+    {
+      "title": "fas fa-sign",
+      "searchTerms": [
+        "directions",
+        "real estate",
+        "signage",
+        "wayfinding",
+        "sign"
+      ]
+    },
+    {
+      "title": "fas fa-shuttle-van",
+      "searchTerms": [
+        "airport",
+        "machine",
+        "public-transportation",
+        "transportation",
+        "travel",
+        "vehicle",
+        "shuttle van"
+      ]
+    },
+    {
+      "title": "fas fa-shower",
+      "searchTerms": [
+        "bath",
+        "clean",
+        "faucet",
+        "water",
+        "shower"
+      ]
+    },
+    {
+      "title": "fas fa-shopping-cart",
+      "searchTerms": [
+        "buy",
+        "checkout",
+        "grocery",
+        "payment",
+        "purchase",
+        "shopping-cart"
+      ]
+    },
+    {
+      "title": "fas fa-shopping-basket",
+      "searchTerms": [
+        "buy",
+        "checkout",
+        "grocery",
+        "payment",
+        "purchase",
+        "shopping basket"
+      ]
+    },
+    {
+      "title": "fas fa-shopping-bag",
+      "searchTerms": [
+        "buy",
+        "checkout",
+        "grocery",
+        "payment",
+        "purchase",
+        "shopping bag"
+      ]
+    },
+    {
+      "title": "fas fa-shoe-prints",
+      "searchTerms": [
+        "feet",
+        "footprints",
+        "steps",
+        "walk",
+        "shoe prints"
+      ]
+    },
+    {
+      "title": "fas fa-shipping-fast",
+      "searchTerms": [
+        "express",
+        "fedex",
+        "mail",
+        "overnight",
+        "package",
+        "ups",
+        "shipping fast"
+      ]
+    },
+    {
+      "title": "fas fa-ship",
+      "searchTerms": [
+        "boat",
+        "sea",
+        "water",
+        "ship"
+      ]
+    },
+    {
+      "title": "fas fa-shield-virus",
+      "searchTerms": [
+        "antibodies",
+        "barrier",
+        "covid-19",
+        "health",
+        "protect",
+        "shield virus"
+      ]
+    },
+    {
+      "title": "fas fa-shield-alt",
+      "searchTerms": [
+        "achievement",
+        "award",
+        "block",
+        "defend",
+        "security",
+        "winner",
+        "alternate shield"
+      ]
+    },
+    {
+      "title": "fas fa-shekel-sign",
+      "searchTerms": [
+        "currency",
+        "ils",
+        "money",
+        "shekel sign"
+      ]
+    },
+    {
+      "title": "far fa-share-square",
+      "searchTerms": [
+        "forward",
+        "save",
+        "send",
+        "social",
+        "share square"
+      ]
+    },
+    {
+      "title": "fas fa-share-square",
+      "searchTerms": [
+        "forward",
+        "save",
+        "send",
+        "social",
+        "share square"
+      ]
+    },
+    {
+      "title": "fas fa-share-alt-square",
+      "searchTerms": [
+        "forward",
+        "save",
+        "send",
+        "social",
+        "alternate share square"
+      ]
+    },
+    {
+      "title": "fas fa-share-alt",
+      "searchTerms": [
+        "forward",
+        "save",
+        "send",
+        "social",
+        "alternate share"
+      ]
+    },
+    {
+      "title": "fas fa-share",
+      "searchTerms": [
+        "forward",
+        "save",
+        "send",
+        "social",
+        "share"
+      ]
+    },
+    {
+      "title": "fas fa-shapes",
+      "searchTerms": [
+        "blocks",
+        "build",
+        "circle",
+        "square",
+        "triangle",
+        "shapes"
+      ]
+    },
+    {
+      "title": "fas fa-server",
+      "searchTerms": [
+        "computer",
+        "cpu",
+        "database",
+        "hardware",
+        "network",
+        "server"
+      ]
+    },
+    {
+      "title": "fas fa-seedling",
+      "searchTerms": [
+        "flora",
+        "grow",
+        "plant",
+        "vegan",
+        "seedling"
+      ]
+    },
+    {
+      "title": "fas fa-search-plus",
+      "searchTerms": [
+        "bigger",
+        "enlarge",
+        "magnify",
+        "positive",
+        "zoom",
+        "zoom in",
+        "search plus"
+      ]
+    },
+    {
+      "title": "fas fa-search-minus",
+      "searchTerms": [
+        "minify",
+        "negative",
+        "smaller",
+        "zoom",
+        "zoom out",
+        "search minus"
+      ]
+    },
+    {
+      "title": "fas fa-search-location",
+      "searchTerms": [
+        "bigger",
+        "enlarge",
+        "find",
+        "magnify",
+        "preview",
+        "zoom",
+        "search location"
+      ]
+    },
+    {
+      "title": "fas fa-search-dollar",
+      "searchTerms": [
+        "bigger",
+        "enlarge",
+        "find",
+        "magnify",
+        "money",
+        "preview",
+        "zoom",
+        "search dollar"
+      ]
+    },
+    {
+      "title": "fas fa-search",
+      "searchTerms": [
+        "bigger",
+        "enlarge",
+        "find",
+        "magnify",
+        "preview",
+        "zoom",
+        "search"
+      ]
+    },
+    {
+      "title": "fas fa-sd-card",
+      "searchTerms": [
+        "image",
+        "memory",
+        "photo",
+        "save",
+        "sd card"
+      ]
+    },
+    {
+      "title": "fas fa-scroll",
+      "searchTerms": [
+        "Dungeons &Dragons",
+        "announcement",
+        "d &d ",
+        "dnd",
+        "fantasy",
+        "paper",
+        "script",
+        "scroll"
+      ]
+    },
+    {
+      "title": "fas fa-screwdriver",
+      "searchTerms": [
+        "admin",
+        "fix",
+        "mechanic",
+        "repair",
+        "settings",
+        "tool",
+        "screwdriver"
+      ]
+    },
+    {
+      "title": "fas fa-school",
+      "searchTerms": [
+        "building",
+        "education",
+        "learn",
+        "student",
+        "teacher",
+        "school"
+      ]
+    },
+    {
+      "title": "far fa-save",
+      "searchTerms": [
+        "disk",
+        "download",
+        "floppy",
+        "floppy-o",
+        "save"
+      ]
+    },
+    {
+      "title": "fas fa-save",
+      "searchTerms": [
+        "disk",
+        "download",
+        "floppy",
+        "floppy-o",
+        "save"
+      ]
+    },
+    {
+      "title": "fas fa-satellite-dish",
+      "searchTerms": [
+        "SETI",
+        "communications",
+        "hardware",
+        "receiver",
+        "saucer",
+        "signal",
+        "space",
+        "satellite dish"
+      ]
+    },
+    {
+      "title": "fas fa-satellite",
+      "searchTerms": [
+        "communications",
+        "hardware",
+        "orbit",
+        "space",
+        "satellite"
+      ]
+    },
+    {
+      "title": "far fa-sad-tear",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "tear",
+        "tears",
+        "loudly crying face"
+      ]
+    },
+    {
+      "title": "fas fa-sad-tear",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "tear",
+        "tears",
+        "loudly crying face"
+      ]
+    },
+    {
+      "title": "far fa-sad-cry",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "tear",
+        "tears",
+        "crying face"
+      ]
+    },
+    {
+      "title": "fas fa-sad-cry",
+      "searchTerms": [
+        "emoticon",
+        "face",
+        "tear",
+        "tears",
+        "crying face"
+      ]
+    },
+    {
+      "title": "fas fa-rupee-sign",
+      "searchTerms": [
+        "currency",
+        "indian",
+        "inr",
+        "money",
+        "indian rupee sign"
+      ]
+    },
+    {
+      "title": "fas fa-running",
+      "searchTerms": [
+        "exercise",
+        "health",
+        "jog",
+        "person",
+        "run",
+        "sport",
+        "sprint",
+        "running"
+      ]
+    },
+    {
+      "title": "fas fa-ruler-vertical",
+      "searchTerms": [
+        "design",
+        "draft",
+        "length",
+        "measure",
+        "planning",
+        "ruler vertical"
+      ]
+    },
+    {
+      "title": "fas fa-ruler-horizontal",
+      "searchTerms": [
+        "design",
+        "draft",
+        "length",
+        "measure",
+        "planning",
+        "ruler horizontal"
+      ]
+    },
+    {
+      "title": "fas fa-ruler-combined",
+      "searchTerms": [
+        "design",
+        "draft",
+        "length",
+        "measure",
+        "planning",
+        "ruler combined"
+      ]
+    },
+    {
+      "title": "fas fa-ruler",
+      "searchTerms": [
+        "design",
+        "draft",
+        "length",
+        "measure",
+        "planning",
+        "ruler"
+      ]
+    },
+    {
+      "title": "fas fa-ruble-sign",
+      "searchTerms": [
+        "currency",
+        "money",
+        "rub",
+        "ruble sign"
+      ]
+    },
+    {
+      "title": "fas fa-rss-square",
+      "searchTerms": [
+        "blog",
+        "feed",
+        "journal",
+        "news",
+        "writing",
+        "rSS square"
+      ]
+    },
+    {
+      "title": "fas fa-rss",
+      "searchTerms": [
+        "blog",
+        "feed",
+        "journal",
+        "news",
+        "writing",
+        "rss"
+      ]
+    },
+    {
+      "title": "fas fa-route",
+      "searchTerms": [
+        "directions",
+        "navigation",
+        "travel",
+        "route"
+      ]
+    },
+    {
+      "title": "fas fa-rocket",
+      "searchTerms": [
+        "aircraft",
+        "app",
+        "jet",
+        "launch",
+        "nasa",
+        "space",
+        "rocket"
+      ]
+    },
+    {
+      "title": "fas fa-robot",
+      "searchTerms": [
+        "android",
+        "automate",
+        "computer",
+        "cyborg",
+        "robot"
+      ]
+    },
+    {
+      "title": "fas fa-road",
+      "searchTerms": [
+        "highway",
+        "map",
+        "pavement",
+        "route",
+        "street",
+        "travel",
+        "road"
+      ]
+    },
+    {
+      "title": "fas fa-ring",
+      "searchTerms": [
+        "Dungeons &Dragons",
+        "Gollum",
+        "band",
+        "binding",
+        "d &d ",
+        "dnd",
+        "engagement",
+        "fantasy",
+        "gold",
+        "jewelry",
+        "marriage",
+        "precious",
+        "ring"
+      ]
+    },
+    {
+      "title": "fas fa-ribbon",
+      "searchTerms": [
+        "badge",
+        "cause",
+        "lapel",
+        "pin",
+        "ribbon"
+      ]
+    },
+    {
+      "title": "fas fa-retweet",
+      "searchTerms": [
+        "refresh",
+        "reload",
+        "share",
+        "swap",
+        "retweet"
+      ]
+    },
+    {
+      "title": "fas fa-restroom",
+      "searchTerms": [
+        "bathroom",
+        "john",
+        "loo",
+        "potty",
+        "washroom",
+        "waste",
+        "wc",
+        "restroom"
+      ]
+    },
+    {
+      "title": "fas fa-republican",
+      "searchTerms": [
+        "american",
+        "conservative",
+        "election",
+        "elephant",
+        "politics",
+        "republican party",
+        "right",
+        "right-wing",
+        "usa",
+        "republican"
+      ]
+    },
+    {
+      "title": "fas fa-reply-all",
+      "searchTerms": [
+        "mail",
+        "message",
+        "respond",
+        "reply-all"
+      ]
+    },
+    {
+      "title": "fas fa-reply",
+      "searchTerms": [
+        "mail",
+        "message",
+        "respond",
+        "reply"
+      ]
+    },
+    {
+      "title": "fas fa-remove-format",
+      "searchTerms": [
+        "cancel",
+        "font",
+        "format",
+        "remove",
+        "style",
+        "text",
+        "remove format"
+      ]
+    },
+    {
+      "title": "far fa-registered",
+      "searchTerms": [
+        "copyright",
+        "mark",
+        "trademark",
+        "registered trademark"
+      ]
+    },
+    {
+      "title": "fas fa-registered",
+      "searchTerms": [
+        "copyright",
+        "mark",
+        "trademark",
+        "registered trademark"
+      ]
+    },
+    {
+      "title": "fas fa-redo-alt",
+      "searchTerms": [
+        "forward",
+        "refresh",
+        "reload",
+        "repeat",
+        "alternate redo"
+      ]
+    },
+    {
+      "title": "fas fa-redo",
+      "searchTerms": [
+        "forward",
+        "refresh",
+        "reload",
+        "repeat",
+        "redo"
+      ]
+    },
+    {
+      "title": "fas fa-recycle",
+      "searchTerms": [
+        "Waste",
+        "compost",
+        "garbage",
+        "reuse",
+        "trash",
+        "recycle"
+      ]
+    },
+    {
+      "title": "fas fa-record-vinyl",
+      "searchTerms": [
+        "LP",
+        "album",
+        "analog",
+        "music",
+        "phonograph",
+        "sound",
+        "record vinyl"
+      ]
+    },
+    {
+      "title": "fas fa-receipt",
+      "searchTerms": [
+        "check",
+        "invoice",
+        "money",
+        "pay",
+        "table",
+        "receipt"
+      ]
+    },
+    {
+      "title": "fas fa-random",
+      "searchTerms": [
+        "arrows",
+        "shuffle",
+        "sort",
+        "swap",
+        "switch",
+        "transfer",
+        "random"
+      ]
+    },
+    {
+      "title": "fas fa-rainbow",
+      "searchTerms": [
+        "gold",
+        "leprechaun",
+        "prism",
+        "rain",
+        "sky",
+        "rainbow"
+      ]
+    },
+    {
+      "title": "fas fa-radiation-alt",
+      "searchTerms": [
+        "danger",
+        "dangerous",
+        "deadly",
+        "hazard",
+        "nuclear",
+        "radioactive",
+        "warning",
+        "alternate radiation"
+      ]
+    },
+    {
+      "title": "fas fa-radiation",
+      "searchTerms": [
+        "danger",
+        "dangerous",
+        "deadly",
+        "hazard",
+        "nuclear",
+        "radioactive",
+        "warning",
+        "radiation"
+      ]
+    },
+    {
+      "title": "fas fa-quran",
+      "searchTerms": [
+        "book",
+        "islam",
+        "muslim",
+        "religion",
+        "quran"
+      ]
+    },
+    {
+      "title": "fas fa-quote-right",
+      "searchTerms": [
+        "mention",
+        "note",
+        "phrase",
+        "text",
+        "type",
+        "quote-right"
+      ]
+    },
+    {
+      "title": "fas fa-quote-left",
+      "searchTerms": [
+        "mention",
+        "note",
+        "phrase",
+        "text",
+        "type",
+        "quote-left"
+      ]
+    },
+    {
+      "title": "fas fa-quidditch",
+      "searchTerms": [
+        "ball",
+        "bludger",
+        "broom",
+        "golden snitch",
+        "harry potter",
+        "hogwarts",
+        "quaffle",
+        "sport",
+        "wizard",
+        "quidditch"
+      ]
+    },
+    {
+      "title": "far fa-question-circle",
+      "searchTerms": [
+        "help",
+        "information",
+        "support",
+        "unknown",
+        "question circle"
+      ]
+    },
+    {
+      "title": "fas fa-question-circle",
+      "searchTerms": [
+        "help",
+        "information",
+        "support",
+        "unknown",
+        "question circle"
+      ]
+    },
+    {
+      "title": "fas fa-question",
+      "searchTerms": [
+        "help",
+        "information",
+        "support",
+        "unknown",
+        "question"
+      ]
+    },
+    {
+      "title": "fas fa-qrcode",
+      "searchTerms": [
+        "barcode",
+        "info",
+        "information",
+        "scan",
+        "qrcode"
+      ]
+    },
+    {
+      "title": "fas fa-puzzle-piece",
+      "searchTerms": [
+        "add-on",
+        "addon",
+        "game",
+        "section",
+        "puzzle piece"
+      ]
+    },
+    {
+      "title": "fas fa-pump-soap",
+      "searchTerms": [
+        "anti-bacterial",
+        "clean",
+        "covid-19",
+        "disinfect",
+        "hygiene",
+        "sanitizer",
+        "soap",
+        "pump soap"
+      ]
+    },
+    {
+      "title": "fas fa-pump-medical",
+      "searchTerms": [
+        "anti-bacterial",
+        "clean",
+        "covid-19",
+        "disinfect",
+        "hygiene",
+        "medical grade",
+        "sanitizer",
+        "soap",
+        "pump medical"
+      ]
+    },
+    {
+      "title": "fas fa-project-diagram",
+      "searchTerms": [
+        "chart",
+        "graph",
+        "network",
+        "pert",
+        "project diagram"
+      ]
+    },
+    {
+      "title": "fas fa-procedures",
+      "searchTerms": [
+        "EKG",
+        "bed",
+        "electrocardiogram",
+        "health",
+        "hospital",
+        "life",
+        "patient",
+        "vital",
+        "procedures"
+      ]
+    },
+    {
+      "title": "fas fa-print",
+      "searchTerms": [
+        "business",
+        "copy",
+        "document",
+        "office",
+        "paper",
+        "print"
+      ]
+    },
+    {
+      "title": "fas fa-prescription-bottle-alt",
+      "searchTerms": [
+        "drugs",
+        "medical",
+        "medicine",
+        "pharmacy",
+        "rx",
+        "alternate prescription bottle"
+      ]
+    },
+    {
+      "title": "fas fa-prescription-bottle",
+      "searchTerms": [
+        "drugs",
+        "medical",
+        "medicine",
+        "pharmacy",
+        "rx",
+        "prescription bottle"
+      ]
+    },
+    {
+      "title": "fas fa-prescription",
+      "searchTerms": [
+        "drugs",
+        "medical",
+        "medicine",
+        "pharmacy",
+        "rx",
+        "prescription"
+      ]
+    },
+    {
+      "title": "fas fa-praying-hands",
+      "searchTerms": [
+        "kneel",
+        "preach",
+        "religion",
+        "worship",
+        "praying hands"
+      ]
+    },
+    {
+      "title": "fas fa-pray",
+      "searchTerms": [
+        "kneel",
+        "preach",
+        "religion",
+        "worship",
+        "pray"
+      ]
+    },
+    {
+      "title": "fas fa-power-off",
+      "searchTerms": [
+        "cancel",
+        "computer",
+        "on",
+        "reboot",
+        "restart",
+        "power off"
+      ]
+    },
+    {
+      "title": "fas fa-pound-sign",
+      "searchTerms": [
+        "currency",
+        "gbp",
+        "money",
+        "pound sign"
+      ]
+    },
+    {
+      "title": "fas fa-portrait",
+      "searchTerms": [
+        "id",
+        "image",
+        "photo",
+        "picture",
+        "selfie",
+        "portrait"
+      ]
+    },
+    {
+      "title": "fas fa-poop",
+      "searchTerms": [
+        "crap",
+        "poop",
+        "shit",
+        "smile",
+        "turd",
+        "poop"
+      ]
+    },
+    {
+      "title": "fas fa-poo-storm",
+      "searchTerms": [
+        "bolt",
+        "cloud",
+        "euphemism",
+        "lightning",
+        "mess",
+        "poop",
+        "shit",
+        "turd",
+        "poo storm"
+      ]
+    },
+    {
+      "title": "fas fa-poo",
+      "searchTerms": [
+        "crap",
+        "poop",
+        "shit",
+        "smile",
+        "turd",
+        "poo"
+      ]
+    },
+    {
+      "title": "fas fa-poll-h",
+      "searchTerms": [
+        "results",
+        "survey",
+        "trend",
+        "vote",
+        "voting",
+        "poll h"
+      ]
+    },
+    {
+      "title": "fas fa-poll",
+      "searchTerms": [
+        "results",
+        "survey",
+        "trend",
+        "vote",
+        "voting",
+        "poll"
+      ]
+    },
+    {
+      "title": "fas fa-podcast",
+      "searchTerms": [
+        "audio",
+        "broadcast",
+        "music",
+        "sound",
+        "podcast"
+      ]
+    },
+    {
+      "title": "far fa-plus-square",
+      "searchTerms": [
+        "add",
+        "create",
+        "expand",
+        "new",
+        "positive",
+        "shape",
+        "plus square"
+      ]
+    },
+    {
+      "title": "fas fa-plus-square",
+      "searchTerms": [
+        "add",
+        "create",
+        "expand",
+        "new",
+        "positive",
+        "shape",
+        "plus square"
+      ]
+    },
+    {
+      "title": "fas fa-plus-circle",
+      "searchTerms": [
+        "add",
+        "create",
+        "expand",
+        "new",
+        "positive",
+        "shape",
+        "plus circle"
+      ]
+    },
+    {
+      "title": "fas fa-plus",
+      "searchTerms": [
+        "add",
+        "create",
+        "expand",
+        "new",
+        "positive",
+        "shape",
+        "plus"
+      ]
+    },
+    {
+      "title": "fas fa-plug",
+      "searchTerms": [
+        "connect",
+        "electric",
+        "online",
+        "power",
+        "plug"
+      ]
+    },
+    {
+      "title": "far fa-play-circle",
+      "searchTerms": [
+        "audio",
+        "music",
+        "playing",
+        "sound",
+        "start",
+        "video",
+        "play circle"
+      ]
+    },
+    {
+      "title": "fas fa-play-circle",
+      "searchTerms": [
+        "audio",
+        "music",
+        "playing",
+        "sound",
+        "start",
+        "video",
+        "play circle"
+      ]
+    },
+    {
+      "title": "fas fa-play",
+      "searchTerms": [
+        "audio",
+        "music",
+        "playing",
+        "sound",
+        "start",
+        "video",
+        "play"
+      ]
+    },
+    {
+      "title": "fas fa-plane-slash",
+      "searchTerms": [
+        "airplane mode",
+        "canceled",
+        "covid-19",
+        "delayed",
+        "grounded",
+        "travel",
+        "plane slash"
+      ]
+    },
+    {
+      "title": "fas fa-plane-departure",
+      "searchTerms": [
+        "airplane",
+        "departing",
+        "destination",
+        "fly",
+        "location",
+        "mode",
+        "take off",
+        "taking off",
+        "travel",
+        "trip",
+        "plane departure"
+      ]
+    },
+    {
+      "title": "fas fa-plane-arrival",
+      "searchTerms": [
+        "airplane",
+        "arriving",
+        "destination",
+        "fly",
+        "land",
+        "landing",
+        "location",
+        "mode",
+        "travel",
+        "trip",
+        "plane arrival"
+      ]
+    },
+    {
+      "title": "fas fa-plane",
+      "searchTerms": [
+        "airplane",
+        "destination",
+        "fly",
+        "location",
+        "mode",
+        "travel",
+        "trip",
+        "plane"
+      ]
+    },
+    {
+      "title": "fas fa-place-of-worship",
+      "searchTerms": [
+        "building",
+        "church",
+        "holy",
+        "mosque",
+        "synagogue",
+        "place of worship"
+      ]
+    },
+    {
+      "title": "fas fa-pizza-slice",
+      "searchTerms": [
+        "cheese",
+        "chicago",
+        "italian",
+        "mozzarella",
+        "new york",
+        "pepperoni",
+        "pie",
+        "slice",
+        "teenage mutant ninja turtles",
+        "tomato",
+        "pizza slice"
+      ]
+    },
+    {
+      "title": "fas fa-pills",
+      "searchTerms": [
+        "drugs",
+        "medicine",
+        "prescription",
+        "tablets",
+        "pills"
+      ]
+    },
+    {
+      "title": "fas fa-piggy-bank",
+      "searchTerms": [
+        "bank",
+        "save",
+        "savings",
+        "piggy bank"
+      ]
+    },
+    {
+      "title": "fas fa-photo-video",
+      "searchTerms": [
+        "av",
+        "film",
+        "image",
+        "library",
+        "media",
+        "photo video"
+      ]
+    },
+    {
+      "title": "fas fa-phone-volume",
+      "searchTerms": [
+        "call",
+        "earphone",
+        "number",
+        "sound",
+        "support",
+        "telephone",
+        "voice",
+        "volume-control-phone",
+        "phone volume"
+      ]
+    },
+    {
+      "title": "fas fa-phone-square-alt",
+      "searchTerms": [
+        "call",
+        "earphone",
+        "number",
+        "support",
+        "telephone",
+        "voice",
+        "alternate phone square"
+      ]
+    },
+    {
+      "title": "fas fa-phone-square",
+      "searchTerms": [
+        "call",
+        "earphone",
+        "number",
+        "support",
+        "telephone",
+        "voice",
+        "phone square"
+      ]
+    },
+    {
+      "title": "fas fa-phone-slash",
+      "searchTerms": [
+        "call",
+        "cancel",
+        "earphone",
+        "mute",
+        "number",
+        "support",
+        "telephone",
+        "voice",
+        "phone slash"
+      ]
+    },
+    {
+      "title": "fas fa-phone-alt",
+      "searchTerms": [
+        "call",
+        "earphone",
+        "number",
+        "support",
+        "telephone",
+        "voice",
+        "alternate phone"
+      ]
+    },
+    {
+      "title": "fas fa-phone",
+      "searchTerms": [
+        "call",
+        "earphone",
+        "number",
+        "support",
+        "telephone",
+        "voice",
+        "phone"
+      ]
+    },
+    {
+      "title": "fas fa-person-booth",
+      "searchTerms": [
+        "changing",
+        "changing room",
+        "election",
+        "human",
+        "person",
+        "vote",
+        "voting",
+        "person entering booth"
+      ]
+    },
+    {
+      "title": "fas fa-percentage",
+      "searchTerms": [
+        "discount",
+        "fraction",
+        "proportion",
+        "rate",
+        "ratio",
+        "percentage"
+      ]
+    }
+  ]
