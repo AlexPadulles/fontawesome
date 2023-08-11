@@ -1,5 +1,6 @@
 <?php
 
+
 $data = $_POST['comentario'];
 $dataArray = json_decode($data, true);
 $conteo = count($dataArray);

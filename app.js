@@ -42,4 +42,24 @@ $(document).ready(function () {
       }
     });
   });
+  $("#miBoton3").click(function (event) {
+    event.preventDefault();  
+
+    var comentario = $("#comentario").val();  
+
+    $.ajax({
+      url: 'eliminaDuplicados.php', 
+      type: 'POST', 
+      data: { comentario: comentario },  
+      dataType: 'json',  
+      success: function (response) {
+        let v = JSON.stringify(response, null, 2);
+        // var jsonObject = JSON.parse(v);
+        console.log('Respuesta JSON recibida y procesada:', v);
+      },
+      error: function (error) {
+        console.error('Error:', error);
+      }
+    });
+  });
 });

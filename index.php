@@ -22,8 +22,10 @@
     'searchTerms': []
 }]...."></textarea>
         <br>
-        <button id="miBoton">Extraer JSON</button>
-        <button id="miBoton2">Contar Objetos</button>
+        <button id="miBoton" class="c">Extraer JSON</button>
+        <button id="miBoton2" class="c">Contar Objetos</button>
+        <button id="miBoton3" class="c">Elimina duplicados</button>
+        <br>
         <span id="span"></span>
     </form>
 </body>
